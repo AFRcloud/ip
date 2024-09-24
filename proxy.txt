@@ -13,36 +13,29 @@
 23.194.124.32            # Akamai International B.V. (MY)
 23.62.148.32             # Akamai International B.V. (SG)
 18.142.183.94            # Amazon.com, Inc. (SG)
-89.34.227.166            #
-64.49.14.239             #
-125.56.198.32            #
-104.99.183.32            #
-35.219.15.90             #
-139.99.66.76             #
-8.209.217.106            #
-210.186.12.244           #
-219.111.17.202           #
-103.106.228.69           #
-82.153.65.177             #
-45.76.198.248             #
-13.88.29.102             #
-38.58.180.38             #
-23.94.5.177             #
-5.8.63.23             #
-34.34.217.201             #
-103.75.188.126             #
-45.77.36.40             #
-43.134.34.18             #
-103.180.193.56             #
-84.247.146.84             #
-172.104.191.203             #
-172.232.238.169             #
-5.223.41.89             #
-164.52.2.100             #
-51.79.254.182             #
-104.248.145.216             #
-185.217.5.3             #
-103.40.11.97             #
-129.150.50.63             #
-185.114.78.230             #
-194.36.179.237             #
+89.34.227.166            # ByteVirt LLC (SG)
+64.49.14.239             # Latitude.sh (SG)
+125.56.198.32            # RUE INTERNET Co.,Ltd. (TH)
+104.99.183.32            # PT Telekomunikasi Indonesia (ID)
+35.219.15.90             # Google LLC (ID)
+139.99.66.76             # OVH SAS (SG)
+8.209.217.106            # Alibaba (US) Technology Co., Ltd. (JP)
+210.186.12.244           # TM TECHNOLOGY SERVICES SDN. BHD. (MY)
+219.111.17.202           # Internet Initiative Japan Inc. (JP)
+103.106.228.69           # BrainStorm Network, Inc (JP)
+82.153.65.177            # AKILE LTD (JP)
+45.76.198.248            # The Constant Company, LLC (JP)
+103.75.188.126           # Gigabit Hosting Sdn Bhd (MY)
+45.77.36.40              # The Constant Company, LLC (SG)
+43.134.34.18             # Tencent Building, Kejizhongyi Avenue (SG)
+103.180.193.56           # iFog GmbH (SG)
+84.247.146.84            # Contabo Asia Private Limited (SG)
+172.104.191.203          # Akamai Connected Cloud (SG)
+164.52.2.100             # CDS Global Cloud Co., Ltd (SG)
+51.79.254.182            # OVH SAS (SG)
+104.248.145.216          # DigitalOcean, LLC (SG)
+185.217.5.3              # NPO G-net (SG)
+103.40.11.97             # HONG KONG Megalayer Technology Co.,Limited (SG)
+129.150.50.63            # Oracle Corporation (SG)
+185.114.78.230           # Aryaka Networks, Inc. (SG)
+194.36.179.237           # FIRST SERVER LIMITED (SG)
