@@ -3,7 +3,7 @@
 101.50.0.114:8443        # PT. Beon Intermedia (ID)
 104.99.183.32            # PT Telekomunikasi Indonesia (ID)
 103.133.223.51:2096      # PT Cloud Teknologi Nusantara (ID)
-34.34.217.201            # 34.34.217.201
+34.34.217.201            # Google LLC (ID)
 101.50.0.114:2053        # PT. Beon Intermedia (ID)
 203.194.112.119:8443     # CV. Rumahweb Indonesia (ID)
 203.194.112.119:2053     # CV. Rumahweb Indonesia (ID)
