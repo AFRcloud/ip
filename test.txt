@@ -33,3 +33,4 @@
 101.50.0.114:2053 #PT. Beon Intermedia (ID2)
 
 49.245.46.105:8443 #(SG) Internet Service Provider Singapore
+/stats:443 #/stats
