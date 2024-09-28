@@ -33,3 +33,5 @@
 /stats:443 #/stats
 /stats:/help #/stats
 akamai:443 #/stats
+
+1.1.1.1:444 #bebaslah
