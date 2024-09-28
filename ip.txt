@@ -36,3 +36,4 @@
 
 8.215.23.33:587 #(ID) Alibaba
 103.232.213.211:27043 #Nearoute Limited (JP)
+94.237.66.163:8443 #(SG) UpCloud Ltd
