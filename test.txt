@@ -31,3 +31,5 @@
 101.50.0.114:8443 #PT. Beon Intermedia (ID)
 103.133.223.51:2096 #PT Cloud Teknologi Nusantara (ID)
 101.50.0.114:2053 #PT. Beon Intermedia (ID2)
+
+49.245.46.105:8443 #(SG) Internet Service Provider Singapore
