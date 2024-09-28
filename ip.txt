@@ -33,3 +33,5 @@
 101.50.0.114:2053 #PT. Beon Intermedia (ID2)
 203.194.112.119:8443 #Rumahweb Indonesia (ID)
 203.194.112.119:2053 #Rumahweb Indonesia (ID)
+
+8.215.23.33:587 #(ID) Alibaba
