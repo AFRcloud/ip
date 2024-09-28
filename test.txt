@@ -1,7 +1,6 @@
 4.193.111.126:40809 #AZURE (SG)
 194.127.193.124:24467 #LEASEWEB (SG)
 194.233.79.195:4725 #CONTABO (SG)
-49.245.46.105:8443 #M1 LIMITED (SG) 
 195.114.193.161:443 #Datacamp Limited (SG) 
 52.74.101.26:443 #Amazon (SG) 
 89.34.227.166:443 #ByteVirt LLC (SG) 
@@ -21,7 +20,6 @@
 129.150.50.63:443 #Oracle Corporation (SG)
 185.114.78.230:443 #Aryaka Networks (SG)
 194.36.179.237:443 #FIRST SERVER LIMITED (SG)
-49.245.46.105:8443 #MobileOne 
 165.154.48.233:587 #UCLOUD LIMITED (ID)
 8.215.23.33:587 #Alibaba (ID)
 172.232.239.235:587 #Akamai Connected Cloud (ID1)
@@ -32,7 +30,6 @@
 103.133.223.51:2096 #PT Cloud Teknologi Nusantara (ID)
 101.50.0.114:2053 #PT. Beon Intermedia (ID2)
 
-49.245.46.105:8443 #(SG) Internet Service Provider Singapore
 /stats:443 #/stats
 /stats:/help #/stats
 akamai:443 #/stats
