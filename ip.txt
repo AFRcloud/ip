@@ -80,7 +80,6 @@
 172.232.239.10:587 #Linode (ID)
 172.232.252.106:587 #Linode (ID)
 172.232.234.10:587 #Linode (ID)
-Free Internet:
 128.199.124.195:443 #Digitalocean, LLC, (SG)
 143.198.85.62:18163 #Digitalocean, LLC, (SG)
 143.198.85.62:41536 #Digitalocean, LLC, (SG)
