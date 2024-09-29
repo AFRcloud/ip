@@ -1,3 +1,5 @@
+175.142.86.195:443 #TMNST, (MY)
+210.186.12.244:443, #TMNET, (MY)
 168.138.166.213:10500 #Oracle Public Cloud, (SG)
 152.69.212.80:587 #Oracle Corporation, (SG)
 129.150.36.188:53435 #Oracle Corporation, (SG)
