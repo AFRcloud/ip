@@ -51,7 +51,6 @@
 45.77.36.40:443 #The Constant Company (SG)
 43.134.34.18:443 #Tencent (SG)
 103.180.193.56:443 #iFog GmbH (SG)
-84.247.146.84:443 #Contabo Asia Private Limited (SG)
 172.104.191.203:443 #Akamai (SG)
 172.232.238.169:443 #Akamai (ID)
 164.52.2.100:443 #CDS Global (SG)
