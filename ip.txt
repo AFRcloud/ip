@@ -1,8 +1,8 @@
-165.154.48.233:587 #UCLOUD LIMITED (ID)
-8.215.23.33:587 #Alibaba (ID)
-43.218.79.114:2053 #Amazon (ID)
-101.50.0.114:8443 #PT. Beon Intermedia (ID)
-103.133.223.51:2096 #PT Cloud Teknologi Nusantara (ID)
+165.154.48.233:587 #UCLOUD INFORMATION TECHNOLOGY HK LIMITED 🇮🇩
+8.215.23.33:587 #Alibaba us Technology Co., Ltd. 🇮🇩
+43.218.79.114:2053 #Amazon.com, Inc. 🇮🇩
+101.50.0.114:8443 #Pt. Beon Intermedia 🇮🇩
+103.133.223.51:2096 #Pt Cloud Teknologi Nusantara 🇮🇩
 101.50.0.114:2053 #PT. Beon Intermedia (ID2)
 203.194.112.119:8443 #Rumahweb Indonesia (ID)
 203.194.112.119:2053 #Rumahweb Indonesia (ID)
