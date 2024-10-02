@@ -22,110 +22,110 @@
 172.232.239.10:587 #Linode 🇮🇩
 172.232.252.106:587 #Linode 🇮🇩
 172.232.234.10:587 #Linode 🇮🇩
-94.237.66.163:8443 #(SG) UpCloud Ltd
+94.237.66.163:8443 #UpCloud Ltd 🇸🇬
 175.142.86.195:443 #TMNST (MY)
 210.186.12.244:443 #TMNET (MY)
-168.138.166.213:10500 #Oracle (SG)
-152.69.212.80:587 #Oracle Corporation (SG)
-129.150.36.188:53435 #Oracle Corporation (SG)
-138.2.69.100:10002 #Oracle Corporation (SG)
-168.138.165.174:443 #Oracle (SG)
-168.138.178.6:19990 #Oracle (SG)
-3.1.94.232:443 #Amazon (SG)
-18.142.183.94:443 #Amazon (SG)
-52.77.19.190:443 #Amazon Technologies Inc. (SG)
-54.169.229.188:443 #Amazon Technologies Inc. (SG)
-52.221.193.22:443 #Amazon (SG)
-4.193.111.126:40809 #AZURE (SG)
-194.127.193.124:24467 #LEASEWEB (SG)
-194.233.79.195:4725 #CONTABO (SG)
-49.245.46.105:8443 #M1 LIMITED (SG) 
-195.114.193.161:443 #Datacamp Limited (SG) 
-52.74.101.26:443 #Amazon (SG) 
-89.34.227.166:443 #ByteVirt LLC (SG) 
-64.49.14.239:443 #Latitude.sh (SG) 
+168.138.166.213:10500 #Oracle 🇸🇬
+152.69.212.80:587 #Oracle Corporation 🇸🇬
+129.150.36.188:53435 #Oracle Corporation 🇸🇬
+138.2.69.100:10002 #Oracle Corporation 🇸🇬
+168.138.165.174:443 #Oracle 🇸🇬
+168.138.178.6:19990 #Oracle 🇸🇬
+3.1.94.232:443 #Amazon 🇸🇬
+18.142.183.94:443 #Amazon 🇸🇬
+52.77.19.190:443 #Amazon Technologies Inc. 🇸🇬
+54.169.229.188:443 #Amazon Technologies Inc. 🇸🇬
+52.221.193.22:443 #Amazon 🇸🇬
+4.193.111.126:40809 #AZURE 🇸🇬
+194.127.193.124:24467 #LEASEWEB 🇸🇬
+194.233.79.195:4725 #CONTABO 🇸🇬
+49.245.46.105:8443 #M1 LIMITED 🇸🇬 
+195.114.193.161:443 #Datacamp Limited 🇸🇬 
+52.74.101.26:443 #Amazon 🇸🇬 
+89.34.227.166:443 #ByteVirt LLC 🇸🇬 
+64.49.14.239:443 #Latitude.sh 🇸🇬 
 35.219.15.90:443 #Google LLC 🇮🇩
 210.186.12.244:443 #TM TECHNOLOGY (MY)
-45.77.36.40:443 #The Constant Company (SG)
-43.134.34.18:443 #Tencent (SG)
-103.180.193.56:443 #iFog GmbH (SG)
-172.104.191.203:443 #Akamai (SG)
+45.77.36.40:443 #The Constant Company 🇸🇬
+43.134.34.18:443 #Tencent 🇸🇬
+103.180.193.56:443 #iFog GmbH 🇸🇬
+172.104.191.203:443 #Akamai 🇸🇬
 172.232.238.169:443 #Akamai 🇮🇩
-164.52.2.100:443 #CDS Global (SG)
-51.79.254.182:443 #OVH SAS (SG)
-104.248.145.216:443 #DigitalOcean (SG)
-185.217.5.3:443 #NPO G-net (SG)
-129.150.50.63:443 #Oracle Corporation (SG)
-185.114.78.230:443 #Aryaka Networks (SG)
-194.36.179.237:443 #FIRST SERVER LIMITED (SG)
-49.245.46.105:8443 #MobileOne (SG)
-128.199.124.195:443 #Digitalocean LLC (SG)
-143.198.85.62:18163 #Digitalocean LLC (SG)
-143.198.85.62:41536 #Digitalocean LLC (SG)
-143.198.85.62:49270 #Digitalocean LLC (SG)
-143.198.213.197:443 #Digitalocean LLC (SG)
-143.198.213.197:8443 #Digitalocean LLC (SG)
-188.166.255.195:443 #DIGITALOCEAN (SG)
-188.166.255.195:8443 #DIGITALOCEAN (SG)
-128.199.230.202:52976 #Digitalocean LLC (SG)
-167.71.194.185:8443 #Digitalocean LLC (SG)
-146.190.4.18:80 #Digitalocean LLC (SG)
-146.190.4.18:2052 #Digitalocean LLC (SG)
-159.223.34.97:4433 #Digitalocean LLC (SG)
-206.189.43.42:2053 #Digitalocean LLC (SG)
-206.189.43.42:8443 #Digitalocean LLC (SG)
-152.42.172.170:8443 #Digitalocean LLC (SG)
-146.190.111.165:443 #Digitalocean LLC (SG)
-139.59.249.25:2053 #Digitalocean LLC (SG)
-139.59.249.25:8443 #Digitalocean LLC (SG)
-178.128.80.43:443 #DIGITALOCEAN (SG)
-143.198.91.10:2053 #Digitalocean LLC (SG)
-143.198.91.10:8443 #Digitalocean LLC (SG)
-45.32.99.51:443 #The Constant Company LLC (SG)
-45.77.171.102:3128 #Vultr Holdings LLC (SG)
-139.180.144.170:666 #SGP VULTR CUST (SG)
-45.32.111.47:10000 #The Constant Company LLC (SG)
-45.32.100.46:13802 #The Constant Company LLC (SG)
-139.180.215.77:57878 #SGP VULTR CUST (SG)
-45.76.183.217:49292 #Vultr Holdings LLC (SG)
-207.148.68.228:80 #SGP VULTR CUST (SG)
-139.180.131.125:10005 #SGP VULTR CUST (SG)
-139.180.136.178:29661 #SGP VULTR CUST (SG)
-139.180.136.178:29806 #SGP VULTR CUST (SG)
-45.32.108.221:51103 #The Constant Company LLC (SG)
-207.148.120.76:443 #SGP VULTR CUST (SG)
-45.76.160.124:444 #Vultr Holdings LLC (SG)
-45.77.36.40:443 #Vultr Holdings LLC (SG)
-149.28.145.183:41125 #Vultr Holdings LLC (SG)
-64.176.84.144:81 #Vultr Holdings LLC (SG)
-8.222.186.129:587 #Alibaba Cloud (SG)
-47.236.20.125:51228 #Alibaba Cloud LLC (SG)
-47.245.113.31:20360 #Alibaba Cloud LLC (SG)
-47.245.113.31:29546 #Alibaba Cloud LLC (SG)
-8.219.59.208:11178 #Alibaba Cloud (SG)
-8.222.173.58:23390 #Alibaba Cloud (SG)
-161.117.249.114:2025 #1 Raffles Place 00 One Raffles Place (SG)
-8.219.197.113:45714 #Alibaba Cloud (SG)
-8.219.3.25:8000 #Alibaba Cloud (SG)
-47.237.71.191:587 #Alibaba Cloud LLC (SG)
-47.236.173.166:587 #Alibaba Cloud LLC (SG)
-47.74.254.191:8900 #Alibaba Cloud (SG)
-15.235.197.205:587 #OVH Singapore Pte. LTD (SG)
-15.235.192.153:2053 #OVH Singapore Pte. LTD (SG)
-15.235.192.153:8443 #OVH Singapore Pte. LTD (SG)
-51.79.249.68:2001 #Mitchell Smith (SG)
-51.79.158.126:443 #Mitchell Smith (SG)
-51.79.254.182:443 #Mitchell Smith (SG)
-15.235.162.49:443 #OVH Singapore Pte. LTD (SG)
-185.81.29.113:8080 #AKILE LTD (SG)
-185.126.80.51:2053 #AKILE LTD (SG)
-154.204.183.52:8080 #Fastmos Co Limited (SG)
-185.126.80.215:25565 #AKILE LTD (SG)
-43.128.105.121:59346 #COLLYER QUAY (SG)
-43.134.239.19:443 #COLLYER QUAY (SG)
-43.156.115.101:18080 #COLLYER QUAY (SG)
-150.109.94.144:8900 #COLLYER QUAY (SG)
-43.156.16.213:31528 #COLLYER QUAY (SG)
+164.52.2.100:443 #CDS Global 🇸🇬
+51.79.254.182:443 #OVH SAS 🇸🇬
+104.248.145.216:443 #DigitalOcean 🇸🇬
+185.217.5.3:443 #NPO G-net 🇸🇬
+129.150.50.63:443 #Oracle Corporation 🇸🇬
+185.114.78.230:443 #Aryaka Networks 🇸🇬
+194.36.179.237:443 #FIRST SERVER LIMITED 🇸🇬
+49.245.46.105:8443 #MobileOne 🇸🇬
+128.199.124.195:443 #Digitalocean LLC 🇸🇬
+143.198.85.62:18163 #Digitalocean LLC 🇸🇬
+143.198.85.62:41536 #Digitalocean LLC 🇸🇬
+143.198.85.62:49270 #Digitalocean LLC 🇸🇬
+143.198.213.197:443 #Digitalocean LLC 🇸🇬
+143.198.213.197:8443 #Digitalocean LLC 🇸🇬
+188.166.255.195:443 #DIGITALOCEAN 🇸🇬
+188.166.255.195:8443 #DIGITALOCEAN 🇸🇬
+128.199.230.202:52976 #Digitalocean LLC 🇸🇬
+167.71.194.185:8443 #Digitalocean LLC 🇸🇬
+146.190.4.18:80 #Digitalocean LLC 🇸🇬
+146.190.4.18:2052 #Digitalocean LLC 🇸🇬
+159.223.34.97:4433 #Digitalocean LLC 🇸🇬
+206.189.43.42:2053 #Digitalocean LLC 🇸🇬
+206.189.43.42:8443 #Digitalocean LLC 🇸🇬
+152.42.172.170:8443 #Digitalocean LLC 🇸🇬
+146.190.111.165:443 #Digitalocean LLC 🇸🇬
+139.59.249.25:2053 #Digitalocean LLC 🇸🇬
+139.59.249.25:8443 #Digitalocean LLC 🇸🇬
+178.128.80.43:443 #DIGITALOCEAN 🇸🇬
+143.198.91.10:2053 #Digitalocean LLC 🇸🇬
+143.198.91.10:8443 #Digitalocean LLC 🇸🇬
+45.32.99.51:443 #The Constant Company LLC 🇸🇬
+45.77.171.102:3128 #Vultr Holdings LLC 🇸🇬
+139.180.144.170:666 #SGP VULTR CUST 🇸🇬
+45.32.111.47:10000 #The Constant Company LLC 🇸🇬
+45.32.100.46:13802 #The Constant Company LLC 🇸🇬
+139.180.215.77:57878 #SGP VULTR CUST 🇸🇬
+45.76.183.217:49292 #Vultr Holdings LLC 🇸🇬
+207.148.68.228:80 #SGP VULTR CUST 🇸🇬
+139.180.131.125:10005 #SGP VULTR CUST 🇸🇬
+139.180.136.178:29661 #SGP VULTR CUST 🇸🇬
+139.180.136.178:29806 #SGP VULTR CUST 🇸🇬
+45.32.108.221:51103 #The Constant Company LLC 🇸🇬
+207.148.120.76:443 #SGP VULTR CUST 🇸🇬
+45.76.160.124:444 #Vultr Holdings LLC 🇸🇬
+45.77.36.40:443 #Vultr Holdings LLC 🇸🇬
+149.28.145.183:41125 #Vultr Holdings LLC 🇸🇬
+64.176.84.144:81 #Vultr Holdings LLC 🇸🇬
+8.222.186.129:587 #Alibaba Cloud 🇸🇬
+47.236.20.125:51228 #Alibaba Cloud LLC 🇸🇬
+47.245.113.31:20360 #Alibaba Cloud LLC 🇸🇬
+47.245.113.31:29546 #Alibaba Cloud LLC 🇸🇬
+8.219.59.208:11178 #Alibaba Cloud 🇸🇬
+8.222.173.58:23390 #Alibaba Cloud 🇸🇬
+161.117.249.114:2025 #1 Raffles Place 00 One Raffles Place 🇸🇬
+8.219.197.113:45714 #Alibaba Cloud 🇸🇬
+8.219.3.25:8000 #Alibaba Cloud 🇸🇬
+47.237.71.191:587 #Alibaba Cloud LLC 🇸🇬
+47.236.173.166:587 #Alibaba Cloud LLC 🇸🇬
+47.74.254.191:8900 #Alibaba Cloud 🇸🇬
+15.235.197.205:587 #OVH Singapore Pte. LTD 🇸🇬
+15.235.192.153:2053 #OVH Singapore Pte. LTD 🇸🇬
+15.235.192.153:8443 #OVH Singapore Pte. LTD 🇸🇬
+51.79.249.68:2001 #Mitchell Smith 🇸🇬
+51.79.158.126:443 #Mitchell Smith 🇸🇬
+51.79.254.182:443 #Mitchell Smith 🇸🇬
+15.235.162.49:443 #OVH Singapore Pte. LTD 🇸🇬
+185.81.29.113:8080 #AKILE LTD 🇸🇬
+185.126.80.51:2053 #AKILE LTD 🇸🇬
+154.204.183.52:8080 #Fastmos Co Limited 🇸🇬
+185.126.80.215:25565 #AKILE LTD 🇸🇬
+43.128.105.121:59346 #COLLYER QUAY 🇸🇬
+43.134.239.19:443 #COLLYER QUAY 🇸🇬
+43.156.115.101:18080 #COLLYER QUAY 🇸🇬
+150.109.94.144:8900 #COLLYER QUAY 🇸🇬
+43.156.16.213:31528 #COLLYER QUAY 🇸🇬
 180.131.145.0:2053 #OVH SAS (US)
 20.221.32.145:443 #Microsoft Corporation (US)
 23.105.199.37:443 #It Networks INC (US)
