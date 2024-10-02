@@ -126,24 +126,24 @@
 43.156.115.101:18080 #COLLYER QUAY 🇸🇬
 150.109.94.144:8900 #COLLYER QUAY 🇸🇬
 43.156.16.213:31528 #COLLYER QUAY 🇸🇬
-180.131.145.0:2053 #OVH SAS (US)
-20.221.32.145:443 #Microsoft Corporation (US)
-23.105.199.37:443 #It Networks INC (US)
-34.123.83.237:443 #Google LLC (US)
-34.230.210.239:443 #Amazon.com, Inc. (US)
-37.123.192.172:443 #Kirino LLC (US)
-38.47.117.77:443 #Netlab Global (US)
-38.49.38.178:443 #FASTNET DATA INC (US)
-38.58.56.68:443 #Cogent Communications (US)
-38.58.180.38:443 #Fiberstate, LLC (US)
-38.107.232.53:443 #Newserverlife LLC (US)
-45.55.135.93:443 #Digitalocean, LLC (US)
-45.66.248.174:443 #Bluevps Ou (US)
-45.76.4.49:443 #The Constant Company, LLC (US)
-45.159.208.139:443 #CGI GLOBAL LIMITED (US)
-46.17.107.183:443 #FIRST SERVER LIMITED (US)
-47.21.145.234:443 #Cablevision Systems Corp. (US)
-143.42.187.209:443 #Akamai Technologies, Inc. (US)
-144.126.147.42:443 #Nubes, LLC (US)
-207.174.31.150:443 #Baxet Group Inc. (US)
-209.182.218.113:443 #Kamatera, Inc. (US)
+180.131.145.0:2053 #OVH SAS 🇺🇸
+20.221.32.145:443 #Microsoft Corporation 🇺🇸
+23.105.199.37:443 #It Networks INC 🇺🇸
+34.123.83.237:443 #Google LLC 🇺🇸
+34.230.210.239:443 #Amazon.com, Inc. 🇺🇸
+37.123.192.172:443 #Kirino LLC 🇺🇸
+38.47.117.77:443 #Netlab Global 🇺🇸
+38.49.38.178:443 #FASTNET DATA INC 🇺🇸
+38.58.56.68:443 #Cogent Communications 🇺🇸
+38.58.180.38:443 #Fiberstate, LLC 🇺🇸
+38.107.232.53:443 #Newserverlife LLC 🇺🇸
+45.55.135.93:443 #Digitalocean, LLC 🇺🇸
+45.66.248.174:443 #Bluevps Ou 🇺🇸
+45.76.4.49:443 #The Constant Company, LLC 🇺🇸
+45.159.208.139:443 #CGI GLOBAL LIMITED 🇺🇸
+46.17.107.183:443 #FIRST SERVER LIMITED 🇺🇸
+47.21.145.234:443 #Cablevision Systems Corp. 🇺🇸
+143.42.187.209:443 #Akamai Technologies, Inc. 🇺🇸
+144.126.147.42:443 #Nubes, LLC 🇺🇸
+207.174.31.150:443 #Baxet Group Inc. 🇺🇸
+209.182.218.113:443 #Kamatera, Inc. 🇺🇸
