@@ -6,7 +6,6 @@
 101.50.0.114:2053 #Beon Intermedia 🇮🇩
 203.194.112.119:8443 #Rumahweb 🇮🇩
 203.194.112.119:2053 #Rumahweb 🇮🇩
-38.60.191.154:587 #Kaopu Cloud 🇮🇩
 172.232.234.119:587 #Linode 🇮🇩
 172.232.239.219:587 #Linode 🇮🇩
 172.232.234.189:587 #Linode 🇮🇩
@@ -56,7 +55,6 @@
 104.248.145.216:443 #DigitalOcean 🇸🇬
 185.217.5.3:443 #NPO G-net 🇸🇬
 129.150.50.63:443 #Oracle Corporation 🇸🇬
-185.114.78.230:443 #Aryaka Networks 🇸🇬
 194.36.179.237:443 #FIRST SERVER LIMITED 🇸🇬
 49.245.46.105:8443 #MobileOne 🇸🇬
 128.199.124.195:443 #Digitalocean LLC 🇸🇬
@@ -65,12 +63,9 @@
 143.198.85.62:49270 #Digitalocean LLC 🇸🇬
 143.198.213.197:443 #Digitalocean LLC 🇸🇬
 143.198.213.197:8443 #Digitalocean LLC 🇸🇬
-188.166.255.195:443 #DIGITALOCEAN 🇸🇬
 188.166.255.195:8443 #DIGITALOCEAN 🇸🇬
 128.199.230.202:52976 #Digitalocean LLC 🇸🇬
 167.71.194.185:8443 #Digitalocean LLC 🇸🇬
-146.190.4.18:80 #Digitalocean LLC 🇸🇬
-146.190.4.18:2052 #Digitalocean LLC 🇸🇬
 159.223.34.97:4433 #Digitalocean LLC 🇸🇬
 206.189.43.42:2053 #Digitalocean LLC 🇸🇬
 206.189.43.42:8443 #Digitalocean LLC 🇸🇬
@@ -84,7 +79,6 @@
 45.32.99.51:443 #The Constant Company LLC 🇸🇬
 45.77.171.102:3128 #Vultr Holdings LLC 🇸🇬
 139.180.144.170:666 #SGP VULTR CUST 🇸🇬
-45.32.111.47:10000 #The Constant Company LLC 🇸🇬
 45.32.100.46:13802 #The Constant Company LLC 🇸🇬
 139.180.215.77:57878 #SGP VULTR CUST 🇸🇬
 45.76.183.217:49292 #Vultr Holdings LLC 🇸🇬
@@ -93,7 +87,6 @@
 139.180.136.178:29661 #SGP VULTR CUST 🇸🇬
 139.180.136.178:29806 #SGP VULTR CUST 🇸🇬
 45.32.108.221:51103 #The Constant Company LLC 🇸🇬
-207.148.120.76:443 #SGP VULTR CUST 🇸🇬
 45.76.160.124:444 #Vultr Holdings LLC 🇸🇬
 45.77.36.40:443 #Vultr Holdings LLC 🇸🇬
 149.28.145.183:41125 #Vultr Holdings LLC 🇸🇬
@@ -111,8 +104,6 @@
 47.236.173.166:587 #Alibaba Cloud LLC 🇸🇬
 47.74.254.191:8900 #Alibaba Cloud 🇸🇬
 15.235.197.205:587 #OVH Singapore Pte. LTD 🇸🇬
-15.235.192.153:2053 #OVH Singapore Pte. LTD 🇸🇬
-15.235.192.153:8443 #OVH Singapore Pte. LTD 🇸🇬
 51.79.249.68:2001 #Mitchell Smith 🇸🇬
 51.79.158.126:443 #Mitchell Smith 🇸🇬
 51.79.254.182:443 #Mitchell Smith 🇸🇬
@@ -123,7 +114,6 @@
 185.126.80.215:25565 #AKILE LTD 🇸🇬
 43.128.105.121:59346 #COLLYER QUAY 🇸🇬
 43.134.239.19:443 #COLLYER QUAY 🇸🇬
-180.131.145.0:2053 #OVH SAS 🇺🇸
 20.221.32.145:443 #Microsoft Corporation 🇺🇸
 23.105.199.37:443 #It Networks INC 🇺🇸
 34.123.83.237:443 #Google LLC 🇺🇸
