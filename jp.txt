@@ -1,0 +1,299 @@
+
+114.153.218.175:10980 #NTT Communications Corporation 🇯🇵
+
+103.121.209.44:587 #Xtom Japan Co., Ltd. 🇯🇵
+
+151.145.68.83:443 #Oracle Corporation 🇯🇵
+
+150.31.41.53:11413 #Internet Initiative Japan Inc. 🇯🇵
+
+125.204.173.119:10884 #NTT Communications Corporation 🇯🇵
+
+163.131.48.254:18444 #Nagasaki Cable Media Inc. 🇯🇵
+
+172.105.217.166:443 #Akamai Technologies, Inc. 🇯🇵
+
+123.223.207.207:25576 #NTT Communications Corporation 🇯🇵
+
+45.78.49.34:443 #It Networks INC 🇯🇵
+
+163.131.48.254:25378 #Nagasaki Cable Media Inc. 🇯🇵
+
+163.131.48.254:32635 #Nagasaki Cable Media Inc. 🇯🇵
+
+125.204.173.119:22259 #NTT Communications Corporation 🇯🇵
+
+163.131.48.254:10537 #Nagasaki Cable Media Inc. 🇯🇵
+
+163.131.48.254:30084 #Nagasaki Cable Media Inc. 🇯🇵
+
+121.85.55.59:19842 #Optage Inc. 🇯🇵
+
+192.243.124.248:11219 #It Networks INC 🇯🇵
+
+38.47.96.250:443 #Vmiss Inc. 🇯🇵
+
+150.9.59.157:25593 #Asahi Net 🇯🇵
+
+64.110.103.142:587 #Oracle Corporation 🇯🇵
+
+52.68.248.185:443 #Amazon.com, Inc. 🇯🇵
+
+58.183.40.84:33674 #Energia Communications,inc. 🇯🇵
+
+150.9.59.157:25654 #Asahi Net 🇯🇵
+
+223.134.173.143:12915 #Sony Network Communications Inc. 🇯🇵
+
+168.138.201.35:36637 #Oracle Corporation 🇯🇵
+
+168.138.201.35:53278 #Oracle Corporation 🇯🇵
+
+168.138.201.35:25253 #Oracle Corporation 🇯🇵
+
+223.27.77.31:12049 #Advanscope Inc. 🇯🇵
+
+138.3.208.153:19957 #Oracle Corporation 🇯🇵
+
+85.113.70.29:19125 #Xtom Japan Co., Ltd. 🇯🇵
+
+103.27.186.179:10004 #Starry Network Limited 🇯🇵
+
+138.2.23.218:47598 #Oracle Corporation 🇯🇵
+
+122.49.193.70:25086 #Mics Network Corporation 🇯🇵
+
+141.11.51.134:443 #Lamhosting LLC 🇯🇵
+
+54.249.135.43:443 #Amazon.com, Inc. 🇯🇵
+
+138.2.21.196:44333 #Oracle Corporation 🇯🇵
+
+122.132.72.114:16730 #Biglobe Inc. 🇯🇵
+
+122.49.193.70:13887 #Mics Network Corporation 🇯🇵
+
+91.200.242.227:24312 #Xtom Japan Co., Ltd. 🇯🇵
+
+212.52.0.61:1846 #Hosthatch, LLC 🇯🇵
+
+45.66.129.76:15919 #Xtom Japan Co., Ltd. 🇯🇵
+
+139.162.73.24:18836 #Akamai Technologies, Inc. 🇯🇵
+
+178.157.60.84:19781 #It Networks INC 🇯🇵
+
+133.18.241.62:56516 #Kagoya Japan Inc. 🇯🇵
+
+208.87.207.42:587 #Sondercloud Limited 🇭🇰
+
+125.195.123.106:19314 #Biglobe Inc. 🇯🇵
+
+202.144.192.76:443 #Techavenue International LTD 🇯🇵
+
+168.138.33.153:33613 #Oracle Corporation 🇯🇵
+
+110.135.25.106:25292 #Jcom Co., Ltd. 🇯🇵
+
+138.2.9.197:443 #Oracle Corporation 🇯🇵
+
+141.147.184.160:443 #Oracle Corporation 🇯🇵
+138.2.40.152:587 #Oracle Corporation 🇯🇵
+
+172.207.211.167:587 #Microsoft Corporation 🇯🇵
+
+155.248.178.58:80 #Oracle Corporation 🇯🇵
+
+168.138.40.157:40990 #Oracle Corporation 🇯🇵
+
+122.210.19.25:21807 #Ucom Corp. 🇯🇵
+
+122.210.19.25:38647 #Ucom Corp. 🇯🇵
+
+122.210.19.25:28045 #Ucom Corp. 🇯🇵
+
+5.226.48.84:443 #Akari Networks 🇯🇵
+
+198.13.42.58:32954 #The Constant Company, LLC 🇯🇵
+
+159.100.194.42:443 #Aryaka Networks, Inc. 🇯🇵
+
+203.140.245.115:21079 #Kurashiki Cable TV 🇯🇵
+
+121.87.0.21:11588 #Optage Inc. 🇯🇵
+
+122.210.19.25:20873 #Ucom Corp. 🇯🇵
+
+213.218.254.248:8443 #AKILE LTD 🇯🇵
+
+122.210.19.25:20087 #Ucom Corp. 🇯🇵
+
+133.167.69.17:35869 #Sakura Internet Inc. 🇯🇵
+
+54.248.198.205:443 #Amazon.com, Inc. 🇯🇵
+
+126.26.53.234:31769 #Softbank Mobile Corp. 🇯🇵
+
+138.2.44.108:44443 #Oracle Corporation 🇯🇵
+
+202.170.106.254:29002 #Miyazaki Cabletelevision Network Co.,ltd 🇯🇵
+
+168.138.53.119:20644 #Oracle Corporation 🇯🇵
+
+153.214.245.55:26341 #NTT Communications Corporation 🇯🇵
+
+38.47.105.237:1585 #Vmiss Inc. 🇯🇵
+
+180.199.184.31:15111 #Chubu Telecommunications Company, Inc. 🇯🇵
+
+128.1.18.29:443 #Zenlayer INC 🇯🇵
+
+155.248.163.175:33262 #Oracle Corporation 🇯🇵
+
+153.198.101.57:14813 #NTT Communications Corporation 🇯🇵
+
+153.170.180.219:11972 #NTT Communications Corporation 🇯🇵
+
+18.183.77.247:443 #Amazon.com, Inc. 🇯🇵
+
+141.147.186.249:4308 #Oracle Corporation 🇯🇵
+
+124.140.162.61:32092 #Jcom Co., Ltd. 🇯🇵
+
+168.138.213.1:50003 #Oracle Corporation 🇯🇵
+
+8.216.67.248:587 #Alibaba us Technology Co., Ltd. 🇯🇵
+
+180.1.76.147:22379 #NTT Communications Corporation 🇯🇵
+
+153.175.84.96:34218 #NTT Communications Corporation 🇯🇵
+
+94.177.131.195:56003 #G core Labs S.A. 🇯🇵
+
+178.173.230.214:1654 #NEROCLOUD LTD 🇯🇵
+
+180.1.76.147:30501 #NTT Communications Corporation 🇯🇵
+
+158.101.150.33:17421 #Oracle Corporation 🇯🇵
+
+116.94.206.111:10207 #QTnet,Inc. 🇯🇵
+
+20.222.169.235:587 #Microsoft Corporation 🇯🇵
+
+43.239.249.54:443 #Xtom Japan Co., Ltd. 🇯🇵
+
+168.138.197.97:8443 #Oracle Corporation 🇯🇵
+
+116.94.206.111:12260 #QTnet,Inc. 🇯🇵
+
+116.94.206.111:28544 #QTnet,Inc. 🇯🇵
+
+138.2.32.76:15821 #Oracle Corporation 🇯🇵
+
+43.163.207.12:52025 #Shenzhen Tencent Computer Systems Company Limited 🇯🇵
+
+8.216.81.183:3939 #Alibaba us Technology Co., Ltd. 🇯🇵
+
+153.174.24.218:24759 #NTT Communications Corporation 🇯🇵
+
+220.144.212.45:25811 #Biglobe Inc. 🇯🇵
+
+153.174.24.218:18809 #NTT Communications Corporation 🇯🇵
+
+219.103.78.112:36457 #ZTV CO.,LTD 🇯🇵
+
+45.78.62.46:16471 #It Networks INC 🇯🇵
+
+36.53.249.177:14332 #Stnet, Incorporated 🇯🇵
+
+36.53.249.177:15190 #Stnet, Incorporated 🇯🇵
+
+18.183.158.211:443 #Amazon.com, Inc. 🇯🇵
+
+192.243.120.82:50822 #It Networks INC 🇯🇵
+
+220.144.212.45:31399 #Biglobe Inc. 🇯🇵
+
+45.12.134.207:443 #STARK INDUSTRIES SOLUTIONS LTD 🇯🇵
+
+138.2.10.149:45638 #Oracle Corporation 🇯🇵
+
+114.158.43.94:10767 #NTT Communications Corporation 🇯🇵
+
+153.129.219.149:39683 #NTT Communications Corporation 🇯🇵
+
+126.37.174.183:24688 #Softbank Mobile Corp. 🇯🇵
+
+118.27.12.40:38443 #Gmo Internet,inc 🇯🇵
+
+131.186.40.202:35138 #Oracle Corporation 🇯🇵
+
+126.37.174.183:28291 #Softbank Mobile Corp. 🇯🇵
+
+45.12.89.120:39774 #Xtom Japan Co., Ltd. 🇯🇵
+
+141.98.196.180:36257 #Xtom Japan Co., Ltd. 🇯🇵
+
+45.66.129.8:1233 #Xtom Japan Co., Ltd. 🇯🇵
+
+45.76.198.248:443 #The Constant Company, LLC 🇯🇵
+
+104.238.161.181:443 #The Constant Company, LLC 🇯🇵
+
+147.78.242.213:6001 #Xtom Japan Co., Ltd. 🇯🇵
+
+104.215.16.121:443 #Microsoft Corporation 🇯🇵
+
+153.172.222.223:13784 #NTT Communications Corporation 🇯🇵
+
+140.83.57.114:25965 #Oracle Corporation 🇯🇵
+
+153.172.222.223:30103 #NTT Communications Corporation 🇯🇵
+
+54.238.167.118:443 #Amazon.com, Inc. 🇯🇵
+
+45.66.130.58:21543 #Xtom Japan Co., Ltd. 🇯🇵
+
+27.121.199.155:26205 #Arteria Networks Corporation 🇯🇵
+
+43.207.145.163:443 #Amazon.com, Inc. 🇯🇵
+
+45.32.255.20:46326 #The Constant Company, LLC 🇯🇵
+
+42.151.67.148:10445 #Jcom Co., Ltd. 🇯🇵
+
+43.153.175.137:443 #Shenzhen Tencent Computer Systems Company Limited 🇯🇵
+
+167.88.182.194:587 #Xtom Limited 🇯🇵
+
+140.83.35.254:48170 #Oracle Corporation 🇯🇵
+
+122.134.246.139:14089 #Biglobe Inc. 🇯🇵
+
+149.28.30.146:44243 #The Constant Company, LLC 🇯🇵
+
+103.232.213.211:27043 #AKILE LTD 🇯🇵
+
+112.69.44.23:11672 #Optage Inc. 🇯🇵
+
+46.3.101.23:443 #SAKURA LINK LIMITED 🇯🇵
+
+126.73.116.1:22752 #Softbank Mobile Corp. 🇯🇵
+
+82.163.16.69:8080 #AKILE LTD 🇯🇵
+
+176.97.73.20:443 #M Europe SRL 🇯🇵
+
+38.47.121.93:8081 #KUIPER NETWORK LTD 🇯🇵
+
+132.145.120.167:37044 #Oracle Corporation 🇯🇵
+
+152.69.206.115:21552 #Oracle Corporation 🇯🇵
+
+153.203.222.170:25263 #NTT Communications Corporation 🇯🇵
+
+124.145.169.195:25427 #Jcom Co., Ltd. 🇯🇵
+
+133.123.32.192:26656 #Stnet, Incorporated 🇯🇵
+
+223.219.52.214:17204 #NTT Communications Corporation 🇯🇵
