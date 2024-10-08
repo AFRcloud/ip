@@ -1,3 +1,4 @@
+35.219.15.90:443 #Google LLC 🇮🇩
 165.154.48.233:587 #UCLOUD INFORMATION TECHNOLOGY HK LIMITED 🇮🇩
 43.133.145.156:53136 #Shenzhen Tencent Computer Systems Company Limited 🇮🇩
 8.215.23.109:587 #Alibaba us Technology Co., Ltd. 🇮🇩
