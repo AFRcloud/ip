@@ -1,73 +1,73 @@
-47.245.113.31:40159,Alibaba 🇸🇬
-8.222.220.81:25435,Alibaba 🇸🇬
-168.138.178.6:19990,Oracle Corporation 🇸🇬
-178.128.80.43:443,Digitalocean, LLC 🇸🇬
-43.245.198.240:587,Techavenue International LTD 🇸🇬
-43.245.198.245:587,Techavenue International LTD 🇸🇬
-43.245.198.31:443,Techavenue International LTD 🇸🇬
-51.79.158.126:443,OVH SAS 🇸🇬
-129.150.49.58:18650,Oracle Corporation 🇸🇬
-54.251.167.101:443,Amazon.com, Inc. 🇸🇬
-47.245.113.31:20360,Alibaba 🇸🇬
-89.34.227.242:2053,Bytevirt LLC 🇸🇬
-213.35.107.73:443,Oracle Corporation 🇸🇬
-47.245.113.31:40420,Alibaba 🇸🇬
-45.32.100.46:13802,The Constant Company, LLC 🇸🇬
-47.245.113.31:29546,Alibaba 🇸🇬
-138.2.74.219:28616,Oracle Corporation 🇸🇬
-103.180.161.10:587,Megalayer 🇸🇬
-158.178.225.124:12934,Oracle Corporation 🇸🇬
-43.156.115.101:18080,Shenzhen 🇸🇬
-128.199.230.202:52976,Digitalocean, LLC 🇸🇬
-43.156.16.213:31528,Shenzhen 🇸🇬
-158.178.225.124:53618,Oracle Corporation 🇸🇬
-143.42.68.97:17055,Akamai Technologies, Inc. 🇸🇬
-158.178.225.124:37497,Oracle Corporation 🇸🇬
-118.189.215.123:8443,M1 LIMITED 🇸🇬
-158.178.241.138:45001,Oracle Corporation 🇸🇬
-158.178.225.124:37461,Oracle Corporation 🇸🇬
-194.36.178.133:443,FIRST SERVER LIMITED 🇸🇬
-139.180.136.178:29806,The Constant Company, LLC 🇸🇬
-94.237.75.31:62174,Upcloud LTD 🇸🇬
-8.219.235.20:443,Alibaba 🇸🇬
-138.2.89.88:27405,Oracle Corporation 🇸🇬
-47.74.254.191:8900,Alibaba 🇸🇬
-47.236.119.190:51342,Alibaba 🇸🇬
-188.166.241.181:2053,Digitalocean, LLC 🇸🇬
-139.180.136.178:29661,The Constant Company, LLC 🇸🇬
-138.2.89.88:25906,Oracle Corporation 🇸🇬
-8.222.129.175:58808,Alibaba 🇸🇬
-192.53.113.156:587,Akamai Technologies, Inc. 🇸🇬
-8.219.185.134:22512,Alibaba 🇸🇬
-45.77.36.40:443,The Constant Company, LLC 🇸🇬
-168.138.183.48:9090,Oracle Corporation 🇸🇬
-129.150.58.86:57621,Oracle Corporation 🇸🇬
-47.236.181.185:8443,Alibaba 🇸🇬
-139.180.144.170:666,The Constant Company, LLC 🇸🇬
-64.49.14.239:443,Latitude.sh 🇸🇬
-194.127.193.124:24467,LEASEWEB SINGAPORE PTE. LTD. 🇸🇬
-165.232.174.89:8443,Digitalocean, LLC 🇸🇬
-8.219.237.57:31523,Alibaba 🇸🇬
-3.1.94.232:443,Amazon.com, Inc. 🇸🇬
-138.2.77.179:30018,Oracle Corporation 🇸🇬
-185.126.80.215:25565,AKILE LTD 🇸🇬
-43.245.198.244:587,Techavenue International LTD 🇸🇬
-213.35.108.135:12596,Oracle Corporation 🇸🇬
-8.219.3.25:8000,Alibaba 🇸🇬
-146.190.111.165:443,Digitalocean, LLC 🇸🇬
-15.235.162.49:443,OVH SAS 🇸🇬
-167.172.90.142:8443,Digitalocean, LLC 🇸🇬
-45.76.183.217:49292,The Constant Company, LLC 🇸🇬
-43.156.56.22:7676,Shenzhen 🇸🇬
-140.245.61.163:39863,Oracle Corporation 🇸🇬
-185.81.29.113:8080,AKILE LTD 🇸🇬
-35.185.180.129:443,Google LLC 🇸🇬
-138.2.69.100:10002,Oracle Corporation 🇸🇬
-149.28.145.183:41125,The Constant Company, LLC 🇸🇬
-15.235.197.205:587,OVH SAS 🇸🇬
-8.219.197.113:45714,Alibaba 🇸🇬
-45.77.171.102:3128,The Constant Company, LLC 🇸🇬
-8.222.150.101:18892,Alibaba 🇸🇬
-139.162.33.248:587,Akamai Technologies, Inc. 🇸🇬
-8.219.59.208:11178,Alibaba 🇸🇬
-47.236.106.39:34241,Alibaba 🇸🇬
+47.245.113.31:40159 #Alibaba 🇸🇬
+8.222.220.81:25435 #Alibaba 🇸🇬
+168.138.178.6:19990 #Oracle Corporation 🇸🇬
+178.128.80.43:443 #Digitalocean # LLC 🇸🇬
+43.245.198.240:587 #Techavenue International LTD 🇸🇬
+43.245.198.245:587 #Techavenue International LTD 🇸🇬
+43.245.198.31:443 #Techavenue International LTD 🇸🇬
+51.79.158.126:443 #OVH SAS 🇸🇬
+129.150.49.58:18650 #Oracle Corporation 🇸🇬
+54.251.167.101:443 #Amazon.com # Inc. 🇸🇬
+47.245.113.31:20360 #Alibaba 🇸🇬
+89.34.227.242:2053 #Bytevirt LLC 🇸🇬
+213.35.107.73:443 #Oracle Corporation 🇸🇬
+47.245.113.31:40420 #Alibaba 🇸🇬
+45.32.100.46:13802 #The Constant Company # LLC 🇸🇬
+47.245.113.31:29546 #Alibaba 🇸🇬
+138.2.74.219:28616 #Oracle Corporation 🇸🇬
+103.180.161.10:587 #Megalayer 🇸🇬
+158.178.225.124:12934 #Oracle Corporation 🇸🇬
+43.156.115.101:18080 #Shenzhen 🇸🇬
+128.199.230.202:52976 #Digitalocean # LLC 🇸🇬
+43.156.16.213:31528 #Shenzhen 🇸🇬
+158.178.225.124:53618 #Oracle Corporation 🇸🇬
+143.42.68.97:17055 #Akamai Technologies # Inc. 🇸🇬
+158.178.225.124:37497 #Oracle Corporation 🇸🇬
+118.189.215.123:8443 #M1 LIMITED 🇸🇬
+158.178.241.138:45001 #Oracle Corporation 🇸🇬
+158.178.225.124:37461 #Oracle Corporation 🇸🇬
+194.36.178.133:443 #FIRST SERVER LIMITED 🇸🇬
+139.180.136.178:29806 #The Constant Company # LLC 🇸🇬
+94.237.75.31:62174 #Upcloud LTD 🇸🇬
+8.219.235.20:443 #Alibaba 🇸🇬
+138.2.89.88:27405 #Oracle Corporation 🇸🇬
+47.74.254.191:8900 #Alibaba 🇸🇬
+47.236.119.190:51342 #Alibaba 🇸🇬
+188.166.241.181:2053 #Digitalocean # LLC 🇸🇬
+139.180.136.178:29661 #The Constant Company # LLC 🇸🇬
+138.2.89.88:25906 #Oracle Corporation 🇸🇬
+8.222.129.175:58808 #Alibaba 🇸🇬
+192.53.113.156:587 #Akamai Technologies # Inc. 🇸🇬
+8.219.185.134:22512 #Alibaba 🇸🇬
+45.77.36.40:443 #The Constant Company # LLC 🇸🇬
+168.138.183.48:9090 #Oracle Corporation 🇸🇬
+129.150.58.86:57621 #Oracle Corporation 🇸🇬
+47.236.181.185:8443 #Alibaba 🇸🇬
+139.180.144.170:666 #The Constant Company # LLC 🇸🇬
+64.49.14.239:443 #Latitude.sh 🇸🇬
+194.127.193.124:24467 #LEASEWEB SINGAPORE PTE. LTD. 🇸🇬
+165.232.174.89:8443 #Digitalocean # LLC 🇸🇬
+8.219.237.57:31523 #Alibaba 🇸🇬
+3.1.94.232:443 #Amazon.com # Inc. 🇸🇬
+138.2.77.179:30018 #Oracle Corporation 🇸🇬
+185.126.80.215:25565 #AKILE LTD 🇸🇬
+43.245.198.244:587 #Techavenue International LTD 🇸🇬
+213.35.108.135:12596 #Oracle Corporation 🇸🇬
+8.219.3.25:8000 #Alibaba 🇸🇬
+146.190.111.165:443 #Digitalocean # LLC 🇸🇬
+15.235.162.49:443 #OVH SAS 🇸🇬
+167.172.90.142:8443 #Digitalocean # LLC 🇸🇬
+45.76.183.217:49292 #The Constant Company # LLC 🇸🇬
+43.156.56.22:7676 #Shenzhen 🇸🇬
+140.245.61.163:39863 #Oracle Corporation 🇸🇬
+185.81.29.113:8080 #AKILE LTD 🇸🇬
+35.185.180.129:443 #Google LLC 🇸🇬
+138.2.69.100:10002 #Oracle Corporation 🇸🇬
+149.28.145.183:41125 #The Constant Company # LLC 🇸🇬
+15.235.197.205:587 #OVH SAS 🇸🇬
+8.219.197.113:45714 #Alibaba 🇸🇬
+45.77.171.102:3128 #The Constant Company # LLC 🇸🇬
+8.222.150.101:18892 #Alibaba 🇸🇬
+139.162.33.248:587 #Akamai Technologies # Inc. 🇸🇬
+8.219.59.208:11178 #Alibaba 🇸🇬
+47.236.106.39:34241 #Alibaba 🇸🇬
