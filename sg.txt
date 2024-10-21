@@ -64,7 +64,6 @@
 129.150.36.188:53435 #Oracle Corporation(SG)
 138.2.89.238:43254 #Oracle Corporation(SG)
 43.156.16.213:31528 #Shenzhen Tencent Computer Systems Company Limited(SG)
-185.114.78.230:443	 馃嚭馃嚫 Aryaka Networks Inc. (US)
 51.79.254.182:443 #Noir7R(SG)
 168.138.178.6:19990 #Oracle Corporation(SG)
 43.156.115.101:18080 #Shenzhen Tencent Computer Systems Company Limited(SG)
