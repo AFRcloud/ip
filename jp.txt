@@ -68,4 +68,3 @@
 219.165.10.15:36864 #NTT Communications Corporation 
 152.69.199.70:8443 #Oracle Corporation 
 3.112.21.102:443 #Amazon.com Inc
-	
