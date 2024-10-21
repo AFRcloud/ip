@@ -1,9 +1,6 @@
-166.88.194.210:47211 #Evoxt Enterprise 🇲🇾
-103.159.132.61:33999 #Gigabit Hosting Sdn Bhd 🇲🇾
-166.88.194.218:52048 #Evoxt Enterprise 🇲🇾
-47.250.115.160:80 #Alibaba Cloud LLC 🇲🇾
-175.142.86.195:443 #TM TECHNOLOGY SERVICES SDN BHD 🇲🇾
-47.250.186.105:8443 #Alibaba us Technology Co., Ltd. 🇲🇾
-210.186.12.244:443 #TM TECHNOLOGY SERVICES SDN BHD 🇲🇾
-202.186.80.150:443 #TT DOTCOM SDN BHD 🇲🇾
-166.88.35.141:443 #Evoxt Enterprise 🇲🇾
+166.88.194.218:52048 #Evoxt Enterprise (MY)
+210.186.12.244:443 #TIME Fibre Optic (MY)
+47.250.115.160:80 #Alibaba (MY)
+166.88.35.141:443 #Evoxt Enterprise (MY)
+202.186.42.245:24619 #TIME Fibre Optic (MY)
+47.250.186.105:8443 #Alibaba (MY)
