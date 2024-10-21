@@ -1,88 +1,71 @@
-172.104.110.10:443 #🇯🇵 Akamai Technologies Inc. (JP)
-20.78.16.129:443 #🇯🇵 Microsoft Corporation (JP)
-47.245.59.226:59215	 #🇯🇵
-212.52.0.61:1846	 #🇯🇵
-160.16.79.228:443	 #🇯🇵
-133.18.241.62:56516 #🇯🇵 Kagoya Japan Inc. (JP)
-125.195.123.106:19314 #🇯🇵 Biglobe Inc. (JP)
-35.73.102.80:443 #🇯🇵 Amazon.com Inc. (JP)
-43.163.207.12:52025 #🇯🇵 Shenzhen Tencent Computer Systems Company Limited (JP)
-80.96.156.113:443 #🇯🇵 M Europe SRL (JP)
-121.80.157.32:19938 #🇯🇵 Optage Inc. (JP)
-178.157.60.84:19781 #🇯🇵 It Networks INC (JP)
-20.222.169.235:587 #🇯🇵 Microsoft Corporation (JP)
-61.192.123.93:16208 #🇯🇵 Jcom Co. Ltd. (JP)
-61.192.123.93:25536	 #🇯🇵
-154.16.248.118:443 #🇯🇵 AKILE LTD (JP)
-121.119.31.221:25722 #🇯🇵 NTT Communications Corporation (JP)
-61.192.123.93:35041 #🇯🇵 Jcom Co. Ltd. (JP)
-152.70.82.101:18650 #🇯🇵 Oracle Corporation (JP)
-219.117.2.190:48401 #🇯🇵 Jcom Co. Ltd. (JP)
-125.13.98.238:11299 #🇯🇵 Jcom Co. Ltd. (JP)
-158.101.154.52:37200 #🇯🇵 Oracle Corporation (JP)
-219.117.2.190:57517 #🇯🇵 Jcom Co. Ltd. (JP)
-61.192.123.93:22627 #🇯🇵 Jcom Co. Ltd. (JP)
-138.2.32.76:15821 #🇯🇵 Oracle Corporation (JP)
-139.162.86.200:443 #🇯🇵 Akamai Technologies Inc. (JP)
-132.226.1.227:443 #🇯🇵 Oracle Corporation (JP)
-23.27.11.221:57504	 #🇯🇵
-198.13.42.58:32954 #🇯🇵 The Constant Company LLC (JP)
-153.175.248.246:22225 #🇯🇵 NTT Communications Corporation (JP)
-149.28.30.146:44243	 #🇯🇵
-121.87.0.21:11588 #🇯🇵 Optage Inc. (JP)
-43.153.171.212:55332 #🇯🇵 Shenzhen Tencent Computer Systems Company Limited (JP)
-45.66.130.58:21543 #🇯🇵 Xtom Japan Co. Ltd. (JP)
-153.172.222.223:30103 #🇯🇵 NTT Communications Corporation (JP)
-153.172.222.223:13784 #🇯🇵 NTT Communications Corporation (JP)
-8.209.220.155:587 #🇯🇵 Alibaba us Technology Co. Ltd. (JP)
-104.215.16.121:443 #🇯🇵 Microsoft Corporation (JP)
-119.150.95.138:33850 #🇯🇵 Asahi Net (JP)
-140.83.57.114:25965	 #🇯🇵
-168.138.40.157:40990 #🇯🇵 Oracle Corporation (JP)
-153.175.248.246:32559 #🇯🇵 NTT Communications Corporation (JP)
-140.83.35.254:48170 #🇯🇵 Oracle Corporation (JP)
-42.147.95.22:22475 #🇯🇵 Jcom Co. Ltd. (JP)
-132.145.120.167:37044	 #🇯🇵
-141.147.186.249:4308 #🇯🇵 Oracle Corporation (JP)
-103.238.129.215:42734	 #🇯🇵
-138.3.215.231:44784 #🇯🇵 Oracle Corporation (JP)
-172.84.92.152:58723 #🇯🇵 Nearoute Limited (JP)
-192.169.127.184:443	 #🇯🇵
-103.121.209.44:587	 #🇯🇵
-20.78.8.44:31593 #🇯🇵 Microsoft Corporation (JP)
-114.158.43.94:10767 #🇯🇵 NTT Communications Corporation (JP)
-45.14.106.186:41508 #🇯🇵 Xtom Limited (JP)
-45.66.129.8:1233	 #🇯🇵
-123.223.207.207:25576 #🇯🇵 NTT Communications Corporation (JP)
-45.14.106.186:20097	 #🇯🇵
-150.31.41.53:11413	 #🇯🇵
-38.180.29.115:443 #🇯🇵 M Europe SRL (JP)
-202.60.191.6:29192 #🇯🇵 ZTV CO.LTD (JP)
-183.176.10.133:22462 #🇯🇵 Stnet Incorporated (JP)
-119.242.45.183:21054 #🇯🇵 Biglobe Inc. (JP)
-20.243.85.49:10443 #🇯🇵 Microsoft Corporation (JP)
-202.60.191.6:17922 #🇯🇵 ZTV CO.LTD (JP)
-217.142.250.195:587 #🇯🇵 Oracle Corporation (JP)
-180.35.159.161:13601 #🇯🇵 NTT Communications Corporation (JP)
-138.2.49.197:587 #🇯🇵 Oracle Corporation (JP)
-217.142.243.226:443 #🇯🇵 Oracle Corporation (JP)
-64.110.103.142:587 #🇯🇵 Cloudflare Inc. (JP)
-64.110.101.90:55007 #🇯🇵 Oracle Corporation (JP)
-168.138.51.162:587 #🇯🇵 Oracle Corporation (JP)
-138.3.208.153:19957 #🇯🇵 Cloudflare Inc. (JP)
-158.101.154.245:47001 #🇯🇵 Oracle Corporation (JP)
-42.147.103.54:29332 #🇯🇵 Jcom Co. Ltd. (JP)
-45.77.130.245:443	 #🇯🇵
-147.78.242.219:56062 #🇯🇵 Xtom Japan Co. Ltd. (JP)
-42.147.103.54:31962 #🇯🇵 Jcom Co. Ltd. (JP)
-42.147.103.54:13758 #🇯🇵 Jcom Co. Ltd. (JP)
-219.165.10.15:19293	 #🇯🇵
-42.147.103.54:26305 #🇯🇵 Jcom Co. Ltd. (JP)
-42.147.103.54:34108 #🇯🇵 Jcom Co. Ltd. (JP)
-150.230.201.209:28507	 #🇯🇵
-168.138.33.153:33613 #🇯🇵 Oracle Corporation (JP)
-168.138.197.147:12345 #🇯🇵 Oracle Corporation (JP)
-219.165.10.15:36864 #🇯🇵 NTT Communications Corporation (JP)
-152.69.199.70:8443 #🇯🇵 Oracle Corporation (JP)
-3.112.21.102:443 #🇯🇵 Amazon.com Inc. (JP)
+172.104.110.10:443 #Akamai Technologies Inc. 🇯🇵
+20.78.16.129:443 #Microsoft Corporation 🇯🇵
+133.18.241.62:56516 #Kagoya Japan Inc. 🇯🇵
+125.195.123.106:19314 #Biglobe Inc. 🇯🇵
+35.73.102.80:443 #Amazon.com Inc. 🇯🇵
+43.163.207.12:52025 #Shenzhen Tencent Computer Systems Company Limited 🇯🇵
+80.96.156.113:443 #M Europe SRL 🇯🇵
+121.80.157.32:19938 #Optage Inc. 🇯🇵
+178.157.60.84:19781 #It Networks INC 🇯🇵
+20.222.169.235:587 #Microsoft Corporation 🇯🇵
+61.192.123.93:16208 #Jcom Co. Ltd. 🇯🇵
+154.16.248.118:443 #AKILE LTD 🇯🇵
+121.119.31.221:25722 #NTT Communications Corporation 🇯🇵
+61.192.123.93:35041 #Jcom Co. Ltd. 🇯🇵
+152.70.82.101:18650 #Oracle Corporation 🇯🇵
+219.117.2.190:48401 #Jcom Co. Ltd. 🇯🇵
+125.13.98.238:11299 #Jcom Co. Ltd. 🇯🇵
+158.101.154.52:37200 #Oracle Corporation 🇯🇵
+219.117.2.190:57517 #Jcom Co. Ltd. 🇯🇵
+61.192.123.93:22627 #Jcom Co. Ltd. 🇯🇵
+138.2.32.76:15821 #Oracle Corporation 🇯🇵
+139.162.86.200:443 #Akamai Technologies Inc. 🇯🇵
+132.226.1.227:443 #Oracle Corporation 🇯🇵
+198.13.42.58:32954 #The Constant Company LLC 🇯🇵
+153.175.248.246:22225 #NTT Communications Corporation 🇯🇵
+121.87.0.21:11588 #Optage Inc. 🇯🇵
+43.153.171.212:55332 #Shenzhen Tencent Computer Systems Company Limited 🇯🇵
+45.66.130.58:21543 #Xtom Japan Co. Ltd. 🇯🇵
+153.172.222.223:30103 #NTT Communications Corporation 🇯🇵
+153.172.222.223:13784 #NTT Communications Corporation 🇯🇵
+8.209.220.155:587 #Alibaba us Technology Co. Ltd. 🇯🇵
+104.215.16.121:443 #Microsoft Corporation 🇯🇵
+119.150.95.138:33850 #Asahi Net 🇯🇵
+168.138.40.157:40990 #Oracle Corporation 🇯🇵
+153.175.248.246:32559 #NTT Communications Corporation 🇯🇵
+140.83.35.254:48170 #Oracle Corporation 🇯🇵
+42.147.95.22:22475 #Jcom Co. Ltd. 🇯🇵
+141.147.186.249:4308 #Oracle Corporation 🇯🇵
+138.3.215.231:44784 #Oracle Corporation 🇯🇵
+172.84.92.152:58723 #Nearoute Limited 🇯🇵
+20.78.8.44:31593 #Microsoft Corporation 🇯🇵
+114.158.43.94:10767 #NTT Communications Corporation 🇯🇵
+45.14.106.186:41508 #Xtom Limited 🇯🇵
+123.223.207.207:25576 #NTT Communications Corporation 🇯🇵
+38.180.29.115:443 #M Europe SRL 🇯🇵
+202.60.191.6:29192 #ZTV CO.LTD 🇯🇵
+183.176.10.133:22462 #Stnet Incorporated 🇯🇵
+119.242.45.183:21054 #Biglobe Inc. 🇯🇵
+20.243.85.49:10443 #Microsoft Corporation 🇯🇵
+202.60.191.6:17922 #ZTV CO.LTD 🇯🇵
+217.142.250.195:587 #Oracle Corporation 🇯🇵
+180.35.159.161:13601 #NTT Communications Corporation 🇯🇵
+138.2.49.197:587 #Oracle Corporation 🇯🇵
+217.142.243.226:443 #Oracle Corporation 🇯🇵
+64.110.103.142:587 #Cloudflare Inc. 🇯🇵
+64.110.101.90:55007 #Oracle Corporation 🇯🇵
+168.138.51.162:587 #Oracle Corporation 🇯🇵
+138.3.208.153:19957 #Cloudflare Inc. 🇯🇵
+158.101.154.245:47001 #Oracle Corporation 🇯🇵
+42.147.103.54:29332 #Jcom Co. Ltd. 🇯🇵
+147.78.242.219:56062 #Xtom Japan Co. Ltd. 🇯🇵
+42.147.103.54:31962 #Jcom Co. Ltd. 🇯🇵
+42.147.103.54:13758 #Jcom Co. Ltd. 🇯🇵
+42.147.103.54:26305 #Jcom Co. Ltd. 🇯🇵
+42.147.103.54:34108 #Jcom Co. Ltd. 🇯🇵
+168.138.33.153:33613 #Oracle Corporation 🇯🇵
+168.138.197.147:12345 #Oracle Corporation 🇯🇵
+219.165.10.15:36864 #NTT Communications Corporation 🇯🇵
+152.69.199.70:8443 #Oracle Corporation 🇯🇵
+3.112.21.102:443 #Amazon.com Inc. 🇯🇵
 	
