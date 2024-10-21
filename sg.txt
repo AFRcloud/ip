@@ -1,126 +1,126 @@
-188.166.255.195:8443 #Digitalocean LLC(SG)
-188.166.255.195:443 #Digitalocean LLC(SG)
-158.178.225.124:12934 #Noir7R(SG)
-139.180.144.170:666 #The Constant Company LLC(SG)
-139.180.136.178:29661 #The Constant Company LLC(SG)
-94.237.75.31:62174 #Upcloud LTD(SG)
-146.190.111.165:443 #Digitalocean LLC(SG)
-139.180.136.178:29806 #The Constant Company LLC(SG)
-89.28.239.168:30981 #Bytevirt LLC(SG)
-47.236.20.125:51228 #Alibaba us Technology CoLtd.(SG)
-158.178.225.124:37497 #Oracle Corporation(SG)
-158.178.225.124:37461 #Oracle Corporation(SG)
-192.53.113.156:587 #Akamai Technologies Inc.(SG)
-139.162.48.174:10000 #Akamai Technologies Inc.(SG)
-138.2.74.219:28616 #Cloudflare Inc.(SG)
-140.245.61.163:39863 #Oracle Corporation(SG)
-4.193.111.126:40809 #Microsoft Corporation(SG)
-47.236.22.194:52324 #Alibaba us Technology CoLtd.(SG)
-158.178.225.124:53618 #Oracle Corporation(SG)
-47.245.95.160:1443 #Alibaba us Technology CoLtd.(SG)
-47.236.106.39:34241 #Alibaba us Technology CoLtd.(SG)
-103.180.161.10:587 #Hong Kong Megalayer Technology Co.limited(SG)
-54.169.229.188:443 #Amazon.com Inc.(SG)
-129.150.50.63:443 #Oracle Corporation(SG)
-43.245.198.244:587 #Techavenue International LTD(SG)
-138.2.89.88:27405 #Oracle Corporation(SG)
-157.230.240.71:9532 #Noir7R(SG)
-103.180.161.123:587 #Hong Kong Megalayer Technology Co.limited(SG)
-152.69.212.80:587 #Oracle Corporation(SG)
-195.114.193.161:443 #Datacamp Limited(SG)
-168.138.166.213:10500 #Oracle Corporation(SG)
-129.150.49.58:18650 #Oracle Corporation(SG)
-138.2.89.88:25906 #Oracle Corporation(SG)
-159.223.34.97:4433 #Digitalocean LLC(SG)
-62.72.46.14:8443 #Contabo Asia Private Limited(SG)
-161.117.249.114:2025 #Alibaba us Technology CoLtd.(SG)
-89.34.227.98:8080 #Bytevirt LLC(SG)
-47.245.113.31:40159 #Alibaba us Technology CoLtd.(SG)
-47.245.113.31:29546 #Alibaba us Technology CoLtd.(SG)
-3.1.94.232:443 #Amazon.com Inc.(SG)
-167.71.194.185:8443 #Digitalocean LLC(SG)
-129.150.58.86:57621 #Oracle Corporation(SG)
-213.35.108.135:12596 #Oracle Corporation(SG)
-8.222.220.81:25435 #Alibaba us Technology CoLtd.(SG)
-8.222.143.82:24245 #Alibaba us Technology CoLtd.(SG)
-47.245.113.31:40420 #Alibaba us Technology CoLtd.(SG)
-8.219.50.5:29220 #Alibaba us Technology CoLtd.(SG)
-47.236.7.98:587 #Cloudflare Inc.(SG)
-194.127.193.240:50791 #LEASEWEB SINGAPORE PTELTD.(SG)
-8.219.1.169:443 #Alibaba us Technology CoLtd.(SG)
-194.36.178.132:443 #FIRST SERVER LIMITED(SG)
-143.198.213.197:8443 #Digitalocean LLC(SG)
-5.223.41.42:443 #Hetzner Online GmbH(SG)
-47.236.119.25:55567 #Noir7R(SG)
-43.134.239.19:443 #Noir7R(SG)
-47.74.254.191:8900 #Alibaba us Technology CoLtd.(SG)
-194.36.179.237:443 #FIRST SERVER LIMITED(SG)
-168.138.183.48:9090 #Oracle Corporation(SG)
-15.235.197.205:587 #OVH SAS(SG)
-139.180.131.125:10005 #The Constant Company LLC(SG)
-143.198.213.197:443 #Digitalocean LLC(SG)
-8.222.243.73:26385 #Alibaba us Technology CoLtd.(SG)
-207.148.68.228:80 #The Constant Company LLC(SG)
-129.150.36.188:53435 #Oracle Corporation(SG)
-138.2.89.238:43254 #Oracle Corporation(SG)
-43.156.16.213:31528 #Shenzhen Tencent Computer Systems Company Limited(SG)
-51.79.254.182:443 #Noir7R(SG)
-168.138.178.6:19990 #Oracle Corporation(SG)
-43.156.115.101:18080 #Shenzhen Tencent Computer Systems Company Limited(SG)
-146.235.18.248:45137 #Noir7R(SG)
-8.219.59.208:11178 #Alibaba us Technology CoLtd.(SG)
-15.235.162.49:443 #OVH SAS(SG)
-209.97.172.173:443 #Digitalocean LLC(SG)
-168.138.160.54:19081 #Oracle Corporation(SG)
-47.236.173.166:587 #Noir7R(SG)
-109.176.19.89:10017 #Bytevirt LLC(SG)
-143.198.85.62:41536 #Digitalocean LLC(SG)
-213.35.107.73:443 #Oracle Corporation(SG)
-143.198.85.62:49270 #Digitalocean LLC(SG)
-143.198.85.62:18163 #Digitalocean LLC(SG)
-109.176.19.89:10000 #Bytevirt LLC(SG)
-193.239.166.244:443 #Noir7R(SG)
-45.77.36.40:443 #The Constant Company LLC(SG)
-138.2.77.179:30018 #Oracle Corporation(SG)
-45.76.183.217:49292 #The Constant Company LLC(SG)
-8.219.197.113:45714 #Alibaba us Technology CoLtd.(SG)
-168.138.170.211:53702 #Oracle Corporation(SG)
-158.178.241.138:45001 #Noir7R(SG)
-109.176.19.89:10004 #Bytevirt LLC(SG)
-109.176.19.89:10016 #Bytevirt LLC(SG)
-47.236.25.107:27903 #Alibaba us Technology CoLtd.(SG)
-38.181.70.7:16240 #Eons Data Communications Limited(SG)
-51.79.158.126:443 #OVH SAS(SG)
-143.42.68.97:17055 #Akamai Technologies Inc.(SG)
-168.138.178.6:19990 #Oracle Corporation(SG)
-45.32.100.46:13802 #The Constant Company LLC(SG)
-47.236.246.163:14108 #Alibaba us Technology CoLtd.(SG)
-15.235.162.49:443 #OVH SAS(SG)
-138.2.95.61:1111 #Oracle Corporation(SG)
-152.42.172.170:8443 #Digitalocean LLC(SG)
-146.235.16.65:15174 #Oracle Corporation(SG)
-138.2.69.100:10002 #Oracle Corporation(SG)
-103.180.161.69:587 #Noir7R(SG)
-185.126.80.215:25565 #AKILE LTD(SG)
-52.77.19.190:443 #Amazon.com Inc.(SG)
-47.236.181.185:8443 #Alibaba us Technology CoLtd.(SG)
-138.2.95.33:17465 #Oracle Corporation(SG)
-8.222.129.175:58808 #Alibaba us Technology CoLtd.(SG)
-15.235.187.177:587 #OVH SAS(SG)
-8.219.163.164:36261 #Noir7R(SG)
-138.2.109.23:587 #Oracle Corporation(SG)
-8.219.237.57:31523 #Alibaba us Technology CoLtd.(SG)
-139.162.33.248:587 #Akamai Technologies Inc.(SG)
-47.236.157.249:587 #Noir7R(SG)
-103.40.11.26:587 #Hong Kong Megalayer Technology Co.limited(SG)
-54.251.167.101:443 #Amazon.com Inc.(SG)
-119.81.201.154:9089 #Softlayer Technologies Inc.(SG)
-8.219.254.209:41101 #Alibaba us Technology CoLtd.(SG)
-45.77.171.102:3128 #The Constant Company LLC(SG)
-47.236.195.221:443 #Alibaba us Technology CoLtd.(SG)
-64.176.84.144:81 #The Constant Company LLC(SG)
-8.222.159.112:30667 #Alibaba us Technology CoLtd.(SG)
-43.245.198.240:587 #Techavenue International LTD(SG)
-139.180.215.77:57878 #The Constant Company LLC(SG)
-47.236.97.101:53314 #Alibaba us Technology CoLtd.(SG)
-47.236.119.190:51342 #Alibaba us Technology CoLtd.(SG)
+188.166.255.195:8443 #Digitalocean LLC 🇸🇬
+188.166.255.195:443 #Digitalocean LLC 🇸🇬
+158.178.225.124:12934 #Noir7R 🇸🇬
+139.180.144.170:666 #The Constant Company LLC 🇸🇬
+139.180.136.178:29661 #The Constant Company LLC 🇸🇬
+94.237.75.31:62174 #Upcloud LTD 🇸🇬
+146.190.111.165:443 #Digitalocean LLC 🇸🇬
+139.180.136.178:29806 #The Constant Company LLC 🇸🇬
+89.28.239.168:30981 #Bytevirt LLC 🇸🇬
+47.236.20.125:51228 #Alibaba us Technology CoLtd. 🇸🇬
+158.178.225.124:37497 #Oracle Corporation 🇸🇬
+158.178.225.124:37461 #Oracle Corporation 🇸🇬
+192.53.113.156:587 #Akamai Technologies Inc. 🇸🇬
+139.162.48.174:10000 #Akamai Technologies Inc. 🇸🇬
+138.2.74.219:28616 #Cloudflare Inc. 🇸🇬
+140.245.61.163:39863 #Oracle Corporation 🇸🇬
+4.193.111.126:40809 #Microsoft Corporation 🇸🇬
+47.236.22.194:52324 #Alibaba us Technology CoLtd. 🇸🇬
+158.178.225.124:53618 #Oracle Corporation 🇸🇬
+47.245.95.160:1443 #Alibaba us Technology CoLtd. 🇸🇬
+47.236.106.39:34241 #Alibaba us Technology CoLtd. 🇸🇬
+103.180.161.10:587 #Hong Kong Megalayer Technology Co.limited 🇸🇬
+54.169.229.188:443 #Amazon.com Inc. 🇸🇬
+129.150.50.63:443 #Oracle Corporation 🇸🇬
+43.245.198.244:587 #Techavenue International LTD 🇸🇬
+138.2.89.88:27405 #Oracle Corporation 🇸🇬
+157.230.240.71:9532 #Noir7R 🇸🇬
+103.180.161.123:587 #Hong Kong Megalayer Technology Co.limited 🇸🇬
+152.69.212.80:587 #Oracle Corporation 🇸🇬
+195.114.193.161:443 #Datacamp Limited 🇸🇬
+168.138.166.213:10500 #Oracle Corporation 🇸🇬
+129.150.49.58:18650 #Oracle Corporation 🇸🇬
+138.2.89.88:25906 #Oracle Corporation 🇸🇬
+159.223.34.97:4433 #Digitalocean LLC 🇸🇬
+62.72.46.14:8443 #Contabo Asia Private Limited 🇸🇬
+161.117.249.114:2025 #Alibaba us Technology CoLtd. 🇸🇬
+89.34.227.98:8080 #Bytevirt LLC 🇸🇬
+47.245.113.31:40159 #Alibaba us Technology CoLtd. 🇸🇬
+47.245.113.31:29546 #Alibaba us Technology CoLtd. 🇸🇬
+3.1.94.232:443 #Amazon.com Inc. 🇸🇬
+167.71.194.185:8443 #Digitalocean LLC 🇸🇬
+129.150.58.86:57621 #Oracle Corporation 🇸🇬
+213.35.108.135:12596 #Oracle Corporation 🇸🇬
+8.222.220.81:25435 #Alibaba us Technology CoLtd. 🇸🇬
+8.222.143.82:24245 #Alibaba us Technology CoLtd. 🇸🇬
+47.245.113.31:40420 #Alibaba us Technology CoLtd. 🇸🇬
+8.219.50.5:29220 #Alibaba us Technology CoLtd. 🇸🇬
+47.236.7.98:587 #Cloudflare Inc. 🇸🇬
+194.127.193.240:50791 #LEASEWEB SINGAPORE PTELTD. 🇸🇬
+8.219.1.169:443 #Alibaba us Technology CoLtd. 🇸🇬
+194.36.178.132:443 #FIRST SERVER LIMITED 🇸🇬
+143.198.213.197:8443 #Digitalocean LLC 🇸🇬
+5.223.41.42:443 #Hetzner Online GmbH 🇸🇬
+47.236.119.25:55567 #Noir7R 🇸🇬
+43.134.239.19:443 #Noir7R 🇸🇬
+47.74.254.191:8900 #Alibaba us Technology CoLtd. 🇸🇬
+194.36.179.237:443 #FIRST SERVER LIMITED 🇸🇬
+168.138.183.48:9090 #Oracle Corporation 🇸🇬
+15.235.197.205:587 #OVH SAS 🇸🇬
+139.180.131.125:10005 #The Constant Company LLC 🇸🇬
+143.198.213.197:443 #Digitalocean LLC 🇸🇬
+8.222.243.73:26385 #Alibaba us Technology CoLtd. 🇸🇬
+207.148.68.228:80 #The Constant Company LLC 🇸🇬
+129.150.36.188:53435 #Oracle Corporation 🇸🇬
+138.2.89.238:43254 #Oracle Corporation 🇸🇬
+43.156.16.213:31528 #Shenzhen Tencent Computer Systems Company Limited 🇸🇬
+51.79.254.182:443 #Noir7R 🇸🇬
+168.138.178.6:19990 #Oracle Corporation 🇸🇬
+43.156.115.101:18080 #Shenzhen Tencent Computer Systems Company Limited 🇸🇬
+146.235.18.248:45137 #Noir7R 🇸🇬
+8.219.59.208:11178 #Alibaba us Technology CoLtd. 🇸🇬
+15.235.162.49:443 #OVH SAS 🇸🇬
+209.97.172.173:443 #Digitalocean LLC 🇸🇬
+168.138.160.54:19081 #Oracle Corporation 🇸🇬
+47.236.173.166:587 #Noir7R 🇸🇬
+109.176.19.89:10017 #Bytevirt LLC 🇸🇬
+143.198.85.62:41536 #Digitalocean LLC 🇸🇬
+213.35.107.73:443 #Oracle Corporation 🇸🇬
+143.198.85.62:49270 #Digitalocean LLC 🇸🇬
+143.198.85.62:18163 #Digitalocean LLC 🇸🇬
+109.176.19.89:10000 #Bytevirt LLC 🇸🇬
+193.239.166.244:443 #Noir7R 🇸🇬
+45.77.36.40:443 #The Constant Company LLC 🇸🇬
+138.2.77.179:30018 #Oracle Corporation 🇸🇬
+45.76.183.217:49292 #The Constant Company LLC 🇸🇬
+8.219.197.113:45714 #Alibaba us Technology CoLtd. 🇸🇬
+168.138.170.211:53702 #Oracle Corporation 🇸🇬
+158.178.241.138:45001 #Noir7R 🇸🇬
+109.176.19.89:10004 #Bytevirt LLC 🇸🇬
+109.176.19.89:10016 #Bytevirt LLC 🇸🇬
+47.236.25.107:27903 #Alibaba us Technology CoLtd. 🇸🇬
+38.181.70.7:16240 #Eons Data Communications Limited 🇸🇬
+51.79.158.126:443 #OVH SAS 🇸🇬
+143.42.68.97:17055 #Akamai Technologies Inc. 🇸🇬
+168.138.178.6:19990 #Oracle Corporation 🇸🇬
+45.32.100.46:13802 #The Constant Company LLC 🇸🇬
+47.236.246.163:14108 #Alibaba us Technology CoLtd. 🇸🇬
+15.235.162.49:443 #OVH SAS 🇸🇬
+138.2.95.61:1111 #Oracle Corporation 🇸🇬
+152.42.172.170:8443 #Digitalocean LLC 🇸🇬
+146.235.16.65:15174 #Oracle Corporation 🇸🇬
+138.2.69.100:10002 #Oracle Corporation 🇸🇬
+103.180.161.69:587 #Noir7R 🇸🇬
+185.126.80.215:25565 #AKILE LTD 🇸🇬
+52.77.19.190:443 #Amazon.com Inc. 🇸🇬
+47.236.181.185:8443 #Alibaba us Technology CoLtd. 🇸🇬
+138.2.95.33:17465 #Oracle Corporation 🇸🇬
+8.222.129.175:58808 #Alibaba us Technology CoLtd. 🇸🇬
+15.235.187.177:587 #OVH SAS 🇸🇬
+8.219.163.164:36261 #Noir7R 🇸🇬
+138.2.109.23:587 #Oracle Corporation 🇸🇬
+8.219.237.57:31523 #Alibaba us Technology CoLtd. 🇸🇬
+139.162.33.248:587 #Akamai Technologies Inc. 🇸🇬
+47.236.157.249:587 #Noir7R 🇸🇬
+103.40.11.26:587 #Hong Kong Megalayer Technology Co.limited 🇸🇬
+54.251.167.101:443 #Amazon.com Inc. 🇸🇬
+119.81.201.154:9089 #Softlayer Technologies Inc. 🇸🇬
+8.219.254.209:41101 #Alibaba us Technology CoLtd. 🇸🇬
+45.77.171.102:3128 #The Constant Company LLC 🇸🇬
+47.236.195.221:443 #Alibaba us Technology CoLtd. 🇸🇬
+64.176.84.144:81 #The Constant Company LLC 🇸🇬
+8.222.159.112:30667 #Alibaba us Technology CoLtd. 🇸🇬
+43.245.198.240:587 #Techavenue International LTD 🇸🇬
+139.180.215.77:57878 #The Constant Company LLC 🇸🇬
+47.236.97.101:53314 #Alibaba us Technology CoLtd. 🇸🇬
+47.236.119.190:51342 #Alibaba us Technology CoLtd. 🇸🇬
