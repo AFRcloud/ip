@@ -1,8 +1,8 @@
 111.95.40.14:32414 #Linknet-Fastnet 🇮🇩
 35.219.15.90:443 #Google LLC 🇮🇩
-165.154.48.233:587 #UCLOUD INFORMATION TECHNOLOGY HK LIMITED 🇮🇩
-43.133.145.156:53136 #Shenzhen Tencent Computer Systems Company Limited 🇮🇩
-8.215.23.109:587 #Alibaba us Technology Co., Ltd. 🇮🇩
+165.154.48.233:587 #UCLOUD LIMITED 🇮🇩
+43.133.145.156:53136 #Shenzhen Limited 🇮🇩
+8.215.23.109:587 #Alibaba 🇮🇩
 103.133.223.51:2096 #Pt Cloud Teknologi Nusantara 🇮🇩
 103.133.223.50:2096 #Pt Cloud Teknologi Nusantara 🇮🇩
 172.232.234.33:587 #Akamai Technologies, Inc. 🇮🇩
@@ -11,20 +11,3 @@
 172.232.234.119:587 #Akamai Technologies, Inc. 🇮🇩
 172.232.239.10:587 #Akamai Technologies, Inc. 🇮🇩
 147.139.182.37:587 #Alibaba us Technology Co., Ltd. 🇮🇩
-172.232.252.106:587 #Akamai Technologies, Inc. 🇮🇩
-172.232.239.56:587 #Akamai Technologies, Inc. 🇮🇩
-8.215.23.33:587 #Alibaba us Technology Co., Ltd. 🇮🇩
-172.232.252.101:587 #Akamai Technologies, Inc. 🇮🇩
-172.232.239.24:587 #Akamai Technologies, Inc. 🇮🇩
-172.232.252.35:587 #Akamai Technologies, Inc. 🇮🇩
-172.232.252.119:587 #Akamai Technologies, Inc. 🇮🇩
-172.232.234.189:587 #Akamai Technologies, Inc. 🇮🇩
-172.232.249.190:587 #Akamai Technologies, Inc. 🇮🇩
-172.232.239.219:587 #Akamai Technologies, Inc. 🇮🇩
-172.232.234.10:587 #Akamai Technologies, Inc. 🇮🇩
-172.232.239.235:587 #Akamai Technologies, Inc. 🇮🇩
-172.232.239.151:587 #Akamai Technologies, Inc. 🇮🇩
-172.232.238.169:443 #Akamai Technologies, Inc. 🇮🇩
-172.232.238.169:587 #Akamai Technologies, Inc. 🇮🇩
-172.232.252.108:587 #Akamai Technologies, Inc. 🇮🇩
-172.232.238.103:587 #Akamai Technologies, Inc. 🇮🇩
