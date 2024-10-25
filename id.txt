@@ -3,11 +3,8 @@
 165.154.48.233:587 #UCLOUD LIMITED 🇮🇩
 43.133.145.156:53136 #Shenzhen Limited 🇮🇩
 8.215.23.109:587 #Alibaba 🇮🇩
-103.133.223.51:2096 #Pt Cloud Teknologi Nusantara 🇮🇩
-103.133.223.50:2096 #Pt Cloud Teknologi Nusantara 🇮🇩
-172.232.234.33:587 #Akamai Technologies, Inc. 🇮🇩
+103.133.223.51:2096 #Cloud Teknologi Nusantara 🇮🇩
+103.133.223.50:2096 #Cloud Teknologi Nusantara 🇮🇩
 203.194.112.119:2053 #Rumahweb 🇮🇩
 103.133.223.52:2096 #Pt Cloud Teknologi Nusantara 🇮🇩
-172.232.234.119:587 #Akamai Technologies, Inc. 🇮🇩
-172.232.239.10:587 #Akamai Technologies, Inc. 🇮🇩
-147.139.182.37:587 #Alibaba us Technology Co., Ltd. 🇮🇩
+147.139.182.37:587 #Alibaba 🇮🇩
