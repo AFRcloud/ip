@@ -1,3 +1,6 @@
+35.219.15.90:443 #Google LLC 🇮🇩
+35.219.50.99:443 #Google LLC 🇮🇩
+111.95.40.14:32414 #Linknet fastnet Asn 🇮🇩
 172.232.239.151:587 #Akamai Technologies, Inc. 🇮🇩
 103.133.223.51:2096 #Pt Cloud Teknologi Nusantara 🇮🇩
 8.215.23.109:587 #Alibaba us Technology Co., Ltd. 🇮🇩
@@ -11,6 +14,3 @@
 101.50.0.114:8443 #Pt. Beon Intermedia 🇮🇩
 165.154.48.233:587 #UCLOUD INFORMATION TECHNOLOGY HK LIMITED 🇮🇩
 103.133.223.52:2096 #Pt Cloud Teknologi Nusantara 🇮🇩
-35.219.15.90:443 #Google LLC 🇮🇩
-35.219.50.99:443 #Google LLC 🇮🇩
-111.95.40.14:32414 #Linknet fastnet Asn 🇮🇩
