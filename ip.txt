@@ -1,3 +1,4 @@
+103.168.146.169:20132 #Pt Herza Digital Indonesia
 172.232.239.219:587 #Akamai (ID)
 172.232.252.119:587 #Akamai (ID)
 172.232.249.190:587 #Akamai (ID)
