@@ -29,3 +29,9 @@ jobs:
       # Run the script to check IP status
       - name: Run IP status check script
         run: node checkIP.js
+      - name: Upload results as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: hasil-cek
+          path: hasil_cek.csv
+
