@@ -24,8 +24,20 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run IP status check script
-        run: node checkIP.js
+      - name: Check if CSV was created
+        run: |
+          if [ ! -f hasil_cek.csv ]; then
+            echo "Error: hasil_cek.csv file not found!";
+            exit 1;
+          else
+            echo "CSV file found!";
+          fi
+
+      - name: Upload IP check results as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: hasil-cek
+          path: hasil_cek.csv
 
       - name: Upload IP check results as artifact
         uses: actions/upload-artifact@v3
