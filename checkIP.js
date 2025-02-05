@@ -3,7 +3,7 @@ const path = require('path');
 const fetch = require('node-fetch'); // Menggunakan node-fetch untuk HTTP requests
 
 // Nama file untuk menyimpan hasil pengecekan dalam format CSV
-const outputFile = 'hasil_cek.csv';
+const outputFile = './hasil_cek.csv';
 
 // Fungsi untuk mengecek status proxy dan warp dari IP dan port
 async function checkIP(ip, port) {
