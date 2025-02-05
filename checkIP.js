@@ -2,9 +2,6 @@ const fs = require('fs');
 const path = require('path');
 const fetch = require('node-fetch'); // Menggunakan node-fetch untuk HTTP requests
 
-// Nama file untuk menyimpan hasil pengecekan
-const outputFile = 'hasil_cek.txt';
-
 // Fungsi untuk mengecek status proxy dan warp dari IP dan port
 async function checkIP(ip, port) {
     const proxyApiUrl = `https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=${ip}&host=speed.cloudflare.com&port=${port}&tls=true`;
@@ -67,16 +64,11 @@ async function processAllFilesInRepo() {
         // Memfilter baris yang tidak sesuai dengan format IP:PORT
         const validIPList = ipList.filter(line => isValidIPPort(line.trim()));
 
-        // Membuka file output untuk menulis hasil
-        const outputStream = fs.createWriteStream(outputFile, { flags: 'a' });
-
         for (const line of validIPList) {
             const [ip, port] = line.split(':');
             const result = await checkIP(ip.trim(), port.trim());
-            writeResultToFile(result, outputStream);
+            logResult(result);
         }
-
-        outputStream.end(); // Menutup file output setelah selesai
     }
 }
 
@@ -97,15 +89,21 @@ function isValidIPPort(input) {
     return null; // Jika tidak sesuai format
 }
 
-// Fungsi untuk menulis hasil ke dalam file
-function writeResultToFile(result, outputStream) {
+// Fungsi untuk mencetak hasil dalam format yang rapih
+function logResult(result) {
     const { ip, port, proxyStatus, warpStatus, ispInfo } = result;
 
-    // Format hasil yang diinginkan
-    const outputLine = `${ip},${port},(${ispInfo.country}),${ispInfo.isp},${proxyStatus}\n`;
-
-    // Menulis hasil ke file
-    outputStream.write(outputLine);
+    console.log(`
+    ===================================
+    IP: ${ip}
+    Port: ${port}
+    Proxy Status: ${proxyStatus}
+    Warp Status: ${warpStatus}
+    ISP: ${ispInfo.isp} (${ispInfo.country})
+    ASN: ${ispInfo.asn}
+    City: ${ispInfo.city}
+    ===================================
+    `);
 }
 
 // Mulai pemrosesan file
