@@ -60,12 +60,30 @@ async function processAllFilesInRepo() {
         const data = fs.readFileSync(filePath, 'utf8');
 
         const ipList = data.split('\n').filter(line => line.trim() !== '');
-        for (const line of ipList) {
+        
+        // Memfilter baris yang tidak sesuai dengan format IP:PORT
+        const validIPList = ipList.filter(line => isValidIPPort(line.trim()));
+
+        for (const line of validIPList) {
             const [ip, port] = line.split(':');
             const result = await checkIP(ip.trim(), port.trim());
             logResult(result);
         }
     }
+}
+
+// Fungsi untuk memeriksa apakah string sesuai dengan format IP:PORT
+function isValidIPPort(input) {
+    // Regex untuk mencocokkan IP:PORT dengan karakter tambahan yang akan diabaikan
+    const regex = /^(\d{1,3}\.){3}\d{1,3}:(\d+)(.*)$/; // IP:PORT diikuti karakter apapun
+    const match = input.match(regex);
+    
+    if (match) {
+        const ip = match[0].split(':')[0]; // Ambil bagian IP
+        const port = match[2]; // Ambil bagian PORT
+        return { ip, port };
+    }
+    return null; // Jika tidak sesuai format
 }
 
 // Fungsi untuk mencetak hasil dalam format yang rapih
