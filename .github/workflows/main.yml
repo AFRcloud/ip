@@ -8,7 +8,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 0 * * *'  # Menjalankan skrip setiap hari pada jam 00:00 UTC
+    - cron: '0 0 * * *'  # Run the script daily at 00:00 UTC
 
 jobs:
   run-script:
@@ -21,7 +21,7 @@ jobs:
     - name: Set up Node.js
       uses: actions/setup-node@v3
       with:
-        node-version: '14'  # Sesuaikan dengan versi Node.js yang Anda inginkan
+        node-version: '14'  # Use the desired version of Node.js
 
     - name: Install dependencies
       run: npm install
@@ -30,7 +30,7 @@ jobs:
       run: node script.js
 
     - name: Upload results as artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v2  # Update to v2 to avoid deprecation issue
       with:
         name: hasil-cek
         path: hasil_cek.csv
