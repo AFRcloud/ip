@@ -11,6 +11,7 @@ on:
 jobs:
   check-ip-status:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
@@ -25,3 +26,9 @@ jobs:
 
       - name: Run IP status check script
         run: node checkIP.js
+
+      - name: Upload IP check results as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: hasil-cek
+          path: hasil_cek.csv
