@@ -27,7 +27,7 @@ jobs:
       run: npm install
 
     - name: Run the script
-      run: node script.js
+      run: node checkIP.js
 
     - name: Upload results as artifact
       uses: actions/upload-artifact@v3  # Using v3 correctly
