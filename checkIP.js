@@ -1,22 +1,54 @@
 const fs = require('fs');
 const fetch = require('node-fetch'); // Menggunakan node-fetch untuk HTTP requests
 
+// Fungsi untuk mengecek status proxy dan warp dari IP dan port
 async function checkIP(ip, port) {
     const proxyApiUrl = `https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=${ip}&host=speed.cloudflare.com&port=${port}&tls=true`;
 
     try {
         const proxyApiResponse = await fetch(proxyApiUrl);
         const proxyApiData = await proxyApiResponse.json();
+
         const proxyStatus = proxyApiData.proxyip ? '✔ AKTIF ✔' : '✘ DEAD ✘';
         const warpStatus = proxyApiData.warp ? '✔ ON ✔' : '✘ OFF ✘';
-        
-        return { ip, port, proxyStatus, warpStatus };
+
+        // Pengecekan API kedua tetap dilakukan, meskipun API pertama gagal
+        const ispInfo = await getISPInfo(ip);
+
+        return { ip, port, proxyStatus, warpStatus, ispInfo };
     } catch (error) {
         console.error(`Failed to fetch status for IP ${ip}:${port}:`, error);
-        return { ip, port, proxyStatus: '✘ DEAD ✘', warpStatus: '✘ OFF ✘' };
+        // API pertama gagal, namun tetap lanjut ke API kedua
+        const ispInfo = await getISPInfo(ip);
+        return { ip, port, proxyStatus: '✘ DEAD ✘', warpStatus: '✘ OFF ✘', ispInfo };
     }
 }
 
+// Fungsi untuk mendapatkan informasi ISP dan negara dari IP menggunakan ipinfo.io
+async function getISPInfo(ip) {
+    const ispApiUrl = `https://ipinfo.io/${ip}/json`;
+
+    try {
+        const ispApiResponse = await fetch(ispApiUrl);
+        const ispApiData = await ispApiResponse.json();
+
+        if (ispApiData.error) {
+            throw new Error('Failed to fetch ISP data');
+        }
+
+        const country = ispApiData.country || 'Unknown';
+        const asn = ispApiData.org ? ispApiData.org.match(/^AS\d+/)[0] : 'Unknown'; // ASN
+        const isp = ispApiData.org ? ispApiData.org.replace(/^AS\d+\s+/, '') : 'Unknown'; // ISP
+        const city = ispApiData.city || 'Unknown';
+
+        return { country, asn, isp, city };
+    } catch (error) {
+        console.error(`Failed to fetch ISP data for IP ${ip}:`, error);
+        return { country: 'Unknown', asn: 'Unknown', isp: 'Unknown', city: 'Unknown' };
+    }
+}
+
+// Fungsi untuk membaca file IP:Port dan memproses setiap IP
 async function processIPList() {
     const ipListFile = 'ip_list.txt';
 
