@@ -1,7 +1,0 @@
-180.200.129.116:37215 #TransACT Capital Communications (AU)
-192.9.165.253:46268 #Cloudflare Warp (AU)
-192.9.184.12:1010 #Oracle Cloud (AU)
-209.38.20.71:4433 #Digital Ocean (AU)
-115.64.150.183:37215 #TPG Internet (AU)
-91.108.244.32:443 #DpkgSoft International (GB)
-112.213.34.242:443 #Mammoth Media (AU)
