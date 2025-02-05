@@ -30,7 +30,7 @@ jobs:
       run: node script.js
 
     - name: Upload results as artifact
-      uses: actions/upload-artifact@v2  # Update to v2 to avoid deprecation issue
+      uses: actions/upload-artifact@v3  # Using v3 correctly
       with:
         name: hasil-cek
         path: hasil_cek.csv
