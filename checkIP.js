@@ -19,10 +19,26 @@ async function checkIP(ip, port) {
         // Pengecekan API kedua tetap dilakukan, meskipun API pertama gagal
         const ispInfo = await getISPInfo(ip);
 
+        // Log dengan format yang diinginkan
+        console.log('===================================');
+        console.log(`IP: ${ip}`);
+        console.log(`Port: ${port}`);
+        console.log(`Proxy Status: ${proxyStatus}`);
+        console.log(`Warp Status: ${warpStatus}`);
+        console.log(`ISP: ${ispInfo.isp} (${ispInfo.country})`);
+        console.log(`ASN: ${ispInfo.asn}`);
+        console.log(`City: ${ispInfo.city}`);
+        console.log('===================================');
+
         return { ip, port, proxyStatus, warpStatus, ispInfo };
     } catch (error) {
         // API pertama gagal, namun tetap lanjut ke API kedua
         const ispInfo = await getISPInfo(ip);
+
+        console.log('===================================');
+        console.log(`Failed to fetch proxy status for ${ip}:${port}, but ISP info fetched.`);
+        console.log('===================================');
+
         return { ip, port, proxyStatus: '✘ DEAD ✘', warpStatus: '✘ OFF ✘', ispInfo };
     }
 }
@@ -46,6 +62,7 @@ async function getISPInfo(ip) {
 
         return { country, asn, isp, city };
     } catch (error) {
+        console.log(`Error fetching ISP data for ${ip}.`);
         return { country: 'Unknown', asn: 'Unknown', isp: 'Unknown', city: 'Unknown' };
     }
 }
@@ -62,6 +79,7 @@ async function processAllFilesInRepo() {
 
     // Menulis header CSV
     outputStream.write('IP,Port,Country,ISP,Proxy Status\n');
+    console.log('Processing files...');
 
     for (const txtFile of txtFiles) {
         console.log(`Processing file: ${txtFile}`);
@@ -73,6 +91,8 @@ async function processAllFilesInRepo() {
         // Memfilter baris yang tidak sesuai dengan format IP:PORT
         const validIPList = ipList.filter(line => isValidIPPort(line.trim()));
 
+        console.log(`Found ${validIPList.length} valid IPs in ${txtFile}`);
+
         for (const line of validIPList) {
             const [ip, port] = line.split(':');
             const result = await checkIP(ip.trim(), port.trim());
@@ -81,6 +101,7 @@ async function processAllFilesInRepo() {
     }
 
     outputStream.end(); // Menutup file output setelah selesai
+    console.log('Processing complete. Results saved in hasil_cek.csv');
 }
 
 // Fungsi untuk memeriksa apakah string sesuai dengan format IP:PORT
