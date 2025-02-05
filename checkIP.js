@@ -2,8 +2,8 @@ const fs = require('fs');
 const path = require('path');
 const fetch = require('node-fetch'); // Menggunakan node-fetch untuk HTTP requests
 
-// Nama file untuk menyimpan hasil pengecekan
-const outputFile = 'hasil_cek.txt';
+// Nama file untuk menyimpan hasil pengecekan dalam format CSV
+const outputFile = 'hasil_cek.csv';
 
 // Fungsi untuk mengecek status proxy dan warp dari IP dan port
 async function checkIP(ip, port) {
@@ -57,6 +57,12 @@ async function processAllFilesInRepo() {
 
     const txtFiles = files.filter(file => path.extname(file) === '.txt'); // Menyaring file dengan ekstensi .txt
 
+    // Membuka file CSV untuk menulis hasil
+    const outputStream = fs.createWriteStream(outputFile, { flags: 'w' });
+
+    // Menulis header CSV
+    outputStream.write('IP,Port,Country,ISP,Proxy Status\n');
+
     for (const txtFile of txtFiles) {
         console.log(`Processing file: ${txtFile}`);
         const filePath = path.join(directoryPath, txtFile);
@@ -67,17 +73,14 @@ async function processAllFilesInRepo() {
         // Memfilter baris yang tidak sesuai dengan format IP:PORT
         const validIPList = ipList.filter(line => isValidIPPort(line.trim()));
 
-        // Membuka file output untuk menulis hasil
-        const outputStream = fs.createWriteStream(outputFile, { flags: 'a' });
-
         for (const line of validIPList) {
             const [ip, port] = line.split(':');
             const result = await checkIP(ip.trim(), port.trim());
             writeResultToFile(result, outputStream);
         }
-
-        outputStream.end(); // Menutup file output setelah selesai
     }
+
+    outputStream.end(); // Menutup file output setelah selesai
 }
 
 // Fungsi untuk memeriksa apakah string sesuai dengan format IP:PORT
@@ -97,14 +100,14 @@ function isValidIPPort(input) {
     return null; // Jika tidak sesuai format
 }
 
-// Fungsi untuk menulis hasil ke dalam file
+// Fungsi untuk menulis hasil ke dalam file CSV
 function writeResultToFile(result, outputStream) {
     const { ip, port, proxyStatus, warpStatus, ispInfo } = result;
 
-    // Format hasil yang diinginkan
+    // Format hasil dalam format CSV
     const outputLine = `${ip},${port},(${ispInfo.country}),${ispInfo.isp},${proxyStatus}\n`;
 
-    // Menulis hasil ke file
+    // Menulis hasil ke file CSV
     outputStream.write(outputLine);
 }
 
