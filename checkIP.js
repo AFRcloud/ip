@@ -17,7 +17,6 @@ async function checkIP(ip, port) {
 
         return { ip, port, proxyStatus, warpStatus, ispInfo };
     } catch (error) {
-        console.error(`Failed to fetch status for IP ${ip}:${port}:`, error);
         // API pertama gagal, namun tetap lanjut ke API kedua
         const ispInfo = await getISPInfo(ip);
         return { ip, port, proxyStatus: '✘ DEAD ✘', warpStatus: '✘ OFF ✘', ispInfo };
@@ -43,7 +42,6 @@ async function getISPInfo(ip) {
 
         return { country, asn, isp, city };
     } catch (error) {
-        console.error(`Failed to fetch ISP data for IP ${ip}:`, error);
         return { country: 'Unknown', asn: 'Unknown', isp: 'Unknown', city: 'Unknown' };
     }
 }
@@ -63,9 +61,26 @@ async function processIPList() {
         for (const line of ipList) {
             const [ip, port] = line.split(':');
             const result = await checkIP(ip.trim(), port.trim());
-            console.log(result);
+            logResult(result);
         }
     });
+}
+
+// Fungsi untuk mencetak hasil dalam format yang rapih
+function logResult(result) {
+    const { ip, port, proxyStatus, warpStatus, ispInfo } = result;
+
+    console.log(`
+    ===================================
+    IP: ${ip}
+    Port: ${port}
+    Proxy Status: ${proxyStatus}
+    Warp Status: ${warpStatus}
+    ISP: ${ispInfo.isp} (${ispInfo.country})
+    ASN: ${ispInfo.asn}
+    City: ${ispInfo.city}
+    ===================================
+    `);
 }
 
 processIPList();
