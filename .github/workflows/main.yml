@@ -1,4 +1,4 @@
-name: Run IP Check Script
+name: Check IP Status
 
 on:
   push:
@@ -7,30 +7,21 @@ on:
   pull_request:
     branches:
       - main
-  schedule:
-    - cron: '0 0 * * *'  # Run the script daily at 00:00 UTC
 
 jobs:
-  run-script:
+  check-ip-status:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '14'  # Use the desired version of Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
 
-    - name: Install dependencies
-      run: npm install
+      - name: Install dependencies
+        run: npm install
 
-    - name: Run the script
-      run: node checkIP.js
-
-    - name: Upload results as artifact
-      uses: actions/upload-artifact@v3  # Using v3 correctly
-      with:
-        name: hasil-cek
-        path: hasil_cek.csv
+      - name: Run IP status check script
+        run: node checkIP.js
