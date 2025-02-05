@@ -77,7 +77,7 @@ function isValidIPPort(input) {
     // Regex untuk mencocokkan IP:PORT dengan karakter tambahan yang akan diabaikan
     const regex = /^(\d{1,3}\.){3}\d{1,3}:(\d+)(.*)$/; // IP:PORT diikuti karakter apapun
     const match = input.match(regex);
-    
+
     if (match) {
         const ip = match[0].split(':')[0]; // Ambil bagian IP
         const port = match[2]; // Ambil bagian PORT
