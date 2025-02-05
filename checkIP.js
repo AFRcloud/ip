@@ -74,8 +74,11 @@ async function processAllFilesInRepo() {
 
 // Fungsi untuk memeriksa apakah string sesuai dengan format IP:PORT
 function isValidIPPort(input) {
+    // Menghapus komentar (karakter # dan sesudahnya)
+    input = input.split('#')[0].trim(); // Menghapus bagian komentar dan whitespace
+
     // Regex untuk mencocokkan IP:PORT dengan karakter tambahan yang akan diabaikan
-    const regex = /^(\d{1,3}\.){3}\d{1,3}:(\d+)(.*)$/; // IP:PORT diikuti karakter apapun
+    const regex = /^(\d{1,3}\.){3}\d{1,3}:(\d+)$/; // IP:PORT yang valid, hanya IP dan PORT
     const match = input.match(regex);
 
     if (match) {
