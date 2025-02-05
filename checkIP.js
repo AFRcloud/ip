@@ -1,4 +1,5 @@
 const fs = require('fs');
+const path = require('path');
 const fetch = require('node-fetch'); // Menggunakan node-fetch untuk HTTP requests
 
 // Fungsi untuk mengecek status proxy dan warp dari IP dan port
@@ -46,16 +47,17 @@ async function getISPInfo(ip) {
     }
 }
 
-// Fungsi untuk membaca file IP:Port dan memproses setiap IP
-async function processIPList() {
-    const ipListFile = 'ip_list.txt';
+// Fungsi untuk membaca dan memproses semua file .txt dalam repositori
+async function processAllFilesInRepo() {
+    const directoryPath = './'; // Direktori repositori Anda, bisa disesuaikan
+    const files = fs.readdirSync(directoryPath); // Membaca seluruh file di dalam direktori
 
-    // Membaca file IP dan port
-    fs.readFile(ipListFile, 'utf8', async (err, data) => {
-        if (err) {
-            console.error("Error reading IP list:", err);
-            return;
-        }
+    const txtFiles = files.filter(file => path.extname(file) === '.txt'); // Menyaring file dengan ekstensi .txt
+
+    for (const txtFile of txtFiles) {
+        console.log(`Processing file: ${txtFile}`);
+        const filePath = path.join(directoryPath, txtFile);
+        const data = fs.readFileSync(filePath, 'utf8');
 
         const ipList = data.split('\n').filter(line => line.trim() !== '');
         for (const line of ipList) {
@@ -63,7 +65,7 @@ async function processIPList() {
             const result = await checkIP(ip.trim(), port.trim());
             logResult(result);
         }
-    });
+    }
 }
 
 // Fungsi untuk mencetak hasil dalam format yang rapih
@@ -83,4 +85,5 @@ function logResult(result) {
     `);
 }
 
-processIPList();
+// Mulai pemrosesan file
+processAllFilesInRepo();
