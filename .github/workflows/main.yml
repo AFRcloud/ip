@@ -1,4 +1,4 @@
-name: Check IP Status
+name: Run IP Check Script
 
 on:
   push:
@@ -7,31 +7,30 @@ on:
   pull_request:
     branches:
       - main
+  schedule:
+    - cron: '0 0 * * *'  # Menjalankan skrip setiap hari pada jam 00:00 UTC
 
 jobs:
-  check-ip-status:
+  run-script:
     runs-on: ubuntu-latest
+
     steps:
-      # Checkout the repository code
-      - name: Checkout code
-        uses: actions/checkout@v2
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-      # Setup Node.js
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '16'
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '14'  # Sesuaikan dengan versi Node.js yang Anda inginkan
 
-      # Install dependencies
-      - name: Install dependencies
-        run: npm install
+    - name: Install dependencies
+      run: npm install
 
-      # Run the script to check IP status
-      - name: Run IP status check script
-        run: node checkIP.js
-      - name: Upload results as artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: hasil-cek
-          path: hasil_cek.csv
+    - name: Run the script
+      run: node script.js
 
+    - name: Upload results as artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: hasil-cek
+        path: hasil_cek.csv
